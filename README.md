@@ -61,3 +61,18 @@
 6. 燧原科技
 
     编译优化 [01](https://www.bilibili.com/video/av88720239) [02](https://www.bilibili.com/video/av88807060) [03](https://www.bilibili.com/video/av89910858) [04](https://www.bilibili.com/video/av91744591) [05](https://www.bilibili.com/video/av93563697)
+
+## 国内大学编译原理课程
+
+1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
+
+2. [中国科学技术大学](https://www.bilibili.com/video/av33153096) --陈意云
+
+3. [哈尔滨工业大学](https://www.bilibili.com/video/av89903205) --陈鄞
+
+4. [西安交通大学](https://www.bilibili.com/video/av33392713) --冯博琴
+
+5. [东南大学](https://www.bilibili.com/video/av17869142) --廖力
+
+6. [国防科技大学](https://www.bilibili.com/video/av59119931) --王挺
+
