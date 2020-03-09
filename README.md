@@ -34,7 +34,7 @@
 
 6. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
-    [方舟·编译技术入门与实战] (https://www.bilibili.com/video/av78503049)
+    [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049)
 
 ## Program Analysis
 
