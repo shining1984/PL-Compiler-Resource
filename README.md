@@ -38,17 +38,17 @@
 
 ## Program Analysis
 
-1. Stanford University [CS243:Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
+1. Stanford University: [CS243:Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
 
-2. Aarhus University [Static Program Analysis](https://cs.au.dk/~amoeller/spa/)
+2. Aarhus University: [Static Program Analysis](https://cs.au.dk/~amoeller/spa/)
 
-3. Federal University of Minas Gerais [DCC888:Static Program Analysis](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/) --Fernando M Q Pereira
+3. Federal University of Minas Gerais: [DCC888:Static Program Analysis](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/) --Fernando M Q Pereira
 
-4. Peking University [Software Analysis](https://xiongyingfei.github.io/SA/2019/main.htm) --Yingfei Xiong(熊英飞)
+4. Peking University: [Software Analysis](https://xiongyingfei.github.io/SA/2019/main.htm) --Yingfei Xiong(熊英飞)
 
-5. Nanjing University Software Analysis [01](https://www.bilibili.com/video/av91858985) [02](https://www.bilibili.com/video/av93643665) --Yue Li(李樾), Tian Tan(谭添)
+5. Nanjing University: Software Analysis [01](https://www.bilibili.com/video/av91858985) [02](https://www.bilibili.com/video/av93643665) --Yue Li(李樾), Tian Tan(谭添)
 
-6. 燧原科技 《编译优化》 [01](https://www.bilibili.com/video/av88720239) [02](https://www.bilibili.com/video/av88807060) [03](https://www.bilibili.com/video/av89910858) [04](https://www.bilibili.com/video/av91744591) [05](https://www.bilibili.com/video/av93563697)
+6. 燧原科技：《编译优化》 [01](https://www.bilibili.com/video/av88720239) [02](https://www.bilibili.com/video/av88807060) [03](https://www.bilibili.com/video/av89910858) [04](https://www.bilibili.com/video/av91744591) [05](https://www.bilibili.com/video/av93563697)
 
 ## 国内大学编译原理课程
 
