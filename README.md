@@ -50,6 +50,11 @@
 
 6. 燧原科技：《编译优化》 [01](https://www.bilibili.com/video/av88720239) [02](https://www.bilibili.com/video/av88807060) [03](https://www.bilibili.com/video/av89910858) [04](https://www.bilibili.com/video/av91744591) [05](https://www.bilibili.com/video/av93563697)
 
+## Program Language Design
+
+1. Peking University:  [编程语言的设计原理](https://xiongyingfei.github.io/DPPL/2019/main.htm) --Yingfei Xiong(熊英飞)
+
+
 ## 国内大学编译原理课程
 
 1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
