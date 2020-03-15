@@ -21,3 +21,7 @@ Other Resource:
 4. [OSDT Weekly](https://github.com/hellogcc/osdt-weekly)
 
 5. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
+
+## Programming Languages
+
+1. [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)

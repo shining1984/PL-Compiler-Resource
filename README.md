@@ -50,7 +50,11 @@ Other Resource:
 
     [CSE131: Compiler Construction](https://ucsd-cse131-f19.github.io/) --[Bilibili video](https://www.bilibili.com/video/av82276361)
 
-9. NPTEL(India, Contain video)
+9. Cornell University
+
+    [CS 6120: Advanced Compilers β](https://www.cs.cornell.edu/courses/cs6120/2019fa/) --Adrian Sampson 
+
+10. NPTEL(India, Contain video)
 
     [IIT Kharagpur: Compiler Design](https://nptel.ac.in/courses/106/105/106105190/) --Santanu Chattopadhyay
 
@@ -60,7 +64,7 @@ Other Resource:
 
     [IISc Bangalore: Principles of Compiler Design](https://nptel.ac.in/courses/106/108/106108113/) --Y.N.Srikant
 
-10. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
+11. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049)
 
@@ -116,14 +120,28 @@ Other Resource:
 
 ## Programming Languages
 
-1. Brown University:  [CS173: Programming Languages](http://cs.brown.edu/courses/cs173/)
+1. Brown University
 
-2. University of WASHINGTON:  Programming Languages [Part A](https://www.coursera.org/learn/programming-languages) [Part B](https://www.coursera.org/learn/programming-languages-part-b) [Part C](https://www.coursera.org/learn/programming-languages-part-c) --Dan Grossman
+    [CS173: Programming Languages](http://cs.brown.edu/courses/cs173/)
 
-3. Carnegie Mellon University:  [15-312: Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses//15312-f04/)
+2. University of WASHINGTON
 
-4. Peking University:  [编程语言的设计原理](https://xiongyingfei.github.io/DPPL/2019/main.htm) --Yingfei Xiong(熊英飞)
+    Programming Languages [Part A](https://www.coursera.org/learn/programming-languages) [Part B](https://www.coursera.org/learn/programming-languages-part-b) [Part C](https://www.coursera.org/learn/programming-languages-part-c) --Dan Grossman
+
+3. Carnegie Mellon University
+
+    [15-312: Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses//15312-f04/)
+
+4. Peking University
+
+    [编程语言的设计原理](https://xiongyingfei.github.io/DPPL/2019/main.htm) --Yingfei Xiong(熊英飞)
 
 5. Programming Language Implementation Summer School
 
     [2017](https://pliss2017.github.io/) [2019](https://pliss2019.github.io/)
+
+6. Cornell University
+
+    [CS 4110: Programming Languages and Logics](https://www.cs.cornell.edu/courses/cs4110/2018fa/) --Adrian Sampson 
+
+    [CS 6110: Advanced Programming Languages](http://www.cs.cornell.edu/courses/cs6110/2018sp/) --Adrian Sampson 
