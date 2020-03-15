@@ -64,6 +64,8 @@ Other Resource:
 
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049)
 
+    方舟编译器短视频 --[slides](https://github.com/shining1984/talks/tree/master/bilibili-video-slides) --[Bilibili video](https://space.bilibili.com/46326151/channel/detail?cid=98337)
+
 ## Program Analysis
 
 1. Stanford University:  [CS243: Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
