@@ -38,7 +38,11 @@
 
     [CSE5317/CSE4305: Design and Construction of Compilers](https://lambda.uta.edu/cse5317/)
 
-8. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
+8. University of California San Diego
+
+    [CSE131: Compiler Construction](https://ucsd-cse131-f19.github.io/) [Bilibili video](https://www.bilibili.com/video/av82276361)
+
+9. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049)
 
