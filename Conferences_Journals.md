@@ -12,4 +12,6 @@ Other Resource:
 
 ## Conferences
 
+1. [OSDT: 开源开发工具大会](http://www.hellogcc.org/)
+
 ## Journals
