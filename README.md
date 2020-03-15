@@ -22,7 +22,7 @@
 
 4. California State University, Sacramento
 
-    [CSC 151: Compiler Construction](https://www.bilibili.com/video/av81692863)
+    CSC 151: Compiler Construction  --[Bilibili video](https://www.bilibili.com/video/av81692863)
 
 5. University of Illinois Urbana-Champaign
 
@@ -40,9 +40,19 @@
 
 8. University of California San Diego
 
-    [CSE131: Compiler Construction](https://ucsd-cse131-f19.github.io/) [Bilibili video](https://www.bilibili.com/video/av82276361)
+    [CSE131: Compiler Construction](https://ucsd-cse131-f19.github.io/) --[Bilibili video](https://www.bilibili.com/video/av82276361)
 
-9. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
+9. NPTEL(India, Contain video)
+
+    [IIT Kharagpur: Compiler Design](https://nptel.ac.in/courses/106/105/106105190/) --Santanu Chattopadhyay
+
+	[IIT Kanpur: Compiler Design](https://nptel.ac.in/courses/106/104/106104123/) --S.K.Aggarwal
+
+    [IISc Bangalore: Compiler Design](https://nptel.ac.in/courses/106/108/106108052/) --Y.N.Srikant
+
+    [IISc Bangalore: Principles of Compiler Design](https://nptel.ac.in/courses/106/108/106108113/) --Y.N.Srikant
+
+10. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049)
 
@@ -74,15 +84,15 @@
 
 1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
 
-2. [中国科学技术大学](https://www.bilibili.com/video/av33153096) --陈意云
+2. 中国科学技术大学 --[Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
 
-3. [哈尔滨工业大学](https://www.bilibili.com/video/av89903205) --陈鄞
+3. 哈尔滨工业大学 --[Bilibili video](https://www.bilibili.com/video/av89903205) --陈鄞
 
-4. [西安交通大学](https://www.bilibili.com/video/av33392713) --冯博琴
+4. 西安交通大学 --[Bilibili video](https://www.bilibili.com/video/av33392713) --冯博琴
 
-5. [东南大学](https://www.bilibili.com/video/av17869142) --廖力
+5. 东南大学 --[Bilibili video](https://www.bilibili.com/video/av17869142) --廖力
 
-6. [国防科技大学](https://www.bilibili.com/video/av59119931) --王挺
+6. 国防科技大学 --[Bilibili video](https://www.bilibili.com/video/av59119931) --王挺
 
 ## Programming Languages
 
