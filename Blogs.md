@@ -18,6 +18,6 @@ Other Resource:
 
 3. [LLVM Weekly](http://llvmweekly.org/)
 
-4. [OSDT Weekly] (https://github.com/hellogcc/osdt-weekly)
+4. [OSDT Weekly](https://github.com/hellogcc/osdt-weekly)
 
-5. [OpenArcCompiler Weekly] (https://zhuanlan.zhihu.com/llvm-clang)
+5. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
