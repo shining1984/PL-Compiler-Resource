@@ -80,6 +80,16 @@
 
     [01](https://www.bilibili.com/video/av88720239) [02](https://www.bilibili.com/video/av88807060) [03](https://www.bilibili.com/video/av89910858) [04](https://www.bilibili.com/video/av91744591) [05](https://www.bilibili.com/video/av93563697)
 
+## Virtual Machine && Runtime
+
+1. University of California, Berkeley
+
+    [CS294-113: Virtual Machines and Managed Runtimes](http://www.wolczko.com/CS294/)
+
+2. Virtual Machines Summer School
+
+    [2016(Cumberland Lodge,UK)](https://soft-dev.org/events/vmss16/)
+
 ## 国内大学编译原理课程
 
 1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
@@ -103,3 +113,7 @@
 3. Carnegie Mellon University:  [15-312: Foundations of Programming Languages](http://www.cs.cmu.edu/~fp/courses//15312-f04/)
 
 4. Peking University:  [编程语言的设计原理](https://xiongyingfei.github.io/DPPL/2019/main.htm) --Yingfei Xiong(熊英飞)
+
+5. Programming Language Implementation Summer School
+
+    [2017](https://pliss2017.github.io/) [2019](https://pliss2019.github.io/)
