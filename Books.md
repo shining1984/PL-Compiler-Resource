@@ -9,3 +9,7 @@ Other Resource:
 [Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
 
 [Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
+
+## Programming Languages
+
+1. [*Programming Languages: Application and Interpretation*](https://www.plai.org/) --[Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
