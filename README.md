@@ -149,3 +149,5 @@ Other Resource:
 7. Indiana University Bloomington
 
     [P523: Programming Language Implementation](https://homes.luddy.indiana.edu/achauhan/Teaching/P523/2013-Spring/) --Arun Chauhan
+
+    [C311/B521/A596: Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php) --[Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)
