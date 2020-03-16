@@ -13,3 +13,5 @@ Other Resource:
 ## Programming Languages
 
 1. [*Programming Languages: Application and Interpretation*](https://www.plai.org/) --[Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
+
+    [中文版](https://github.com/lotuc/PLAI-cn)
