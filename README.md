@@ -144,4 +144,8 @@ Other Resource:
 
     [CS 4110: Programming Languages and Logics](https://www.cs.cornell.edu/courses/cs4110/2018fa/) --Adrian Sampson 
 
-    [CS 6110: Advanced Programming Languages](http://www.cs.cornell.edu/courses/cs6110/2018sp/) --Adrian Sampson 
+    [CS 6110: Advanced Programming Languages](http://www.cs.cornell.edu/courses/cs6110/2018sp/) --Adrian Sampson
+
+7. Indiana University Bloomington
+
+    [P523: Programming Language Implementation](https://homes.luddy.indiana.edu/achauhan/Teaching/P523/2013-Spring/) --Arun Chauhan
