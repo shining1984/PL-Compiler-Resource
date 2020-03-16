@@ -22,6 +22,20 @@ Other Resource:
 
 5. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
 
+6. [wuhui_gdnt的专栏](https://blog.csdn.net/wuhui_gdnt)
+
+7. [电影旅行敲代码](https://blog.csdn.net/dashuniuniu)
+
+8. [蓝色](https://www.zhihu.com/people/lan-se-52-30)
+
+9. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
+
+10. [小乖他爹](https://www.zhihu.com/people/shiningning)
+
 ## Programming Languages
 
 1. [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
+
+## Blog 文章
+
+1. [对 Parser 的误解](http://www.yinwang.org/blog-cn/2015/09/19/parser) --王垠
