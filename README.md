@@ -108,7 +108,11 @@ Other Resource:
 
 1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
 
-2. 中国科学技术大学 --[Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
+2. 中国科学技术大学 
+
+    编译原理 [Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
+
+    [Principles and Techniques of Compiler](http://staff.ustc.edu.cn/~chengli7/courses/compiler19/)  --[李诚](http://staff.ustc.edu.cn/~chengli7/)
 
 3. 哈尔滨工业大学 --[Bilibili video](https://www.bilibili.com/video/av89903205) --陈鄞
 
