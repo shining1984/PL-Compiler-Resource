@@ -108,7 +108,7 @@ Other Resource:
 
 1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
 
-2. 中国科学技术大学 
+2. 中国科学技术大学
 
     编译原理 [Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
 

@@ -12,17 +12,17 @@ Other Resource:
 
 ## Compilers
 
-1. *Compilers: Principles, Techniques, &Tools(Second Edition)* --Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jefrey D. Ullman
+1. [*Compilers: Principles, Techniques, and Tools(Second Edition)*](https://www.amazon.com/dp/0321486811/) --Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jefrey D. Ullman
 
-2. *Modern Compiler Implementation in C* --Andrew W.Appel
+2. [*Modern Compiler Implementation in C*](https://www.amazon.com/dp/0521607655/) --Andrew W.Appel
 
-3. *Advanced Compiler Design and Implementation* --Steven S. Muchnick
+3. [*Advanced Compiler Design and Implementation*](https://www.amazon.com/dp/1558603204/) --Steven S. Muchnick
 
-4. *Engineering a Compiler(Second Edition)* --Keith D.Copper, Linda Torczon
+4. [*Engineering a Compiler(Second Edition)*](https://www.amazon.com/dp/012088478X/) --Keith D.Copper, Linda Torczon
 
-5. *Linkers & Loaders* --John R. Levine
+5. [*Linkers & Loaders*](https://www.amazon.com/dp/1558604960/) --John R. Levine
 
-6.[*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
+6. [*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
 
 ## Program Analysis
 
@@ -36,6 +36,8 @@ Other Resource:
 
 2. [*Virtual Machines*](https://www.amazon.com/dp/1852339691) --Iain D. Craig
 
+3. [*Advanced Design and Implementation of Virtual Machines*](https://www.amazon.com/dp/B01MXZWNQP/) --Xiao-Feng Li
+
 ## Programming Languages
 
 1. [*Programming Languages: Application and Interpretation*](https://www.plai.org/) --[Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
@@ -45,3 +47,5 @@ Other Resource:
 2. [*Essentials of Programming Languages*](http://www.eopl3.com/) --Third Edition
 
 3. [*The Implementation of Functional Programming Languages*](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2F) --[Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/)
+
+4. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
