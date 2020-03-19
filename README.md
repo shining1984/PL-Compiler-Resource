@@ -82,7 +82,11 @@ Other Resource:
 
 5. Peking University:  [Software Analysis](https://xiongyingfei.github.io/SA/2019/main.htm) --Yingfei Xiong(熊英飞)
 
-6. Nanjing University:  Software Analysis --Yue Li(李樾), Tian Tan(谭添)
+6. Nanjing University
+
+    Software Analysis --Yue Li(李樾), Tian Tan(谭添)
+
+    --Bilibili video:
 
 	[01：Introduction](https://www.bilibili.com/video/av91858985)
 
@@ -90,9 +94,25 @@ Other Resource:
 
 	[03: Data Flow Analysis I](https://www.bilibili.com/video/av95400721)
 
-7. 燧原科技：《编译优化》
+	[04: Data Flow Analysis II](https://www.bilibili.com/video/av97277892)
 
-    [01](https://www.bilibili.com/video/av88720239) [02](https://www.bilibili.com/video/av88807060) [03](https://www.bilibili.com/video/av89910858) [04](https://www.bilibili.com/video/av91744591) [05](https://www.bilibili.com/video/av93563697)
+7. 燧原科技
+
+    《编译优化》
+
+	--Bilibili video:
+
+    [01 编译器简介+从源码到运行](https://www.bilibili.com/video/av88720239)
+
+    [02 BB+CFG+Local_optimization](https://www.bilibili.com/video/av88807060)
+
+    [03 DFA1](https://www.bilibili.com/video/av89910858)
+
+    [04 DFA2](https://www.bilibili.com/video/av91744591)
+
+    [05 WorkList](https://www.bilibili.com/video/av93563697)
+
+    [06 Pointer Analysis](https://www.bilibili.com/video/av97161822)
 
 ## Virtual Machine && Runtime
 
@@ -110,7 +130,7 @@ Other Resource:
 
 2. 中国科学技术大学
 
-    编译原理 [Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
+    编译原理 --[Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
 
     [Principles and Techniques of Compiler](http://staff.ustc.edu.cn/~chengli7/courses/compiler19/)  --[李诚](http://staff.ustc.edu.cn/~chengli7/)
 
