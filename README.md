@@ -66,9 +66,9 @@ Other Resource:
 
 11. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
-    [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049)
+    [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049) --吴伟
 
-    方舟编译器短视频 --[slides](https://github.com/shining1984/talks/tree/master/bilibili-video-slides) --[Bilibili video](https://space.bilibili.com/46326151/channel/detail?cid=98337)
+    方舟编译器短视频 --[slides](https://github.com/shining1984/talks/tree/master/bilibili-video-slides) --[Bilibili video](https://space.bilibili.com/46326151/channel/detail?cid=98337) --史宁宁
 
 ## Program Analysis
 
@@ -92,7 +92,7 @@ Other Resource:
 
 7. 燧原科技
 
-    《编译优化》
+    《编译优化》--官孝峰
 
 	--Bilibili video:
 
