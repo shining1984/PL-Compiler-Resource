@@ -34,6 +34,8 @@ Other Resource:
 
 1. [*Virtual Machines: Versatile Platforms for Systems and Processes*](https://www.amazon.com/dp/1558609105) --Jim Smith, Ravi Nair
 
+    [中文版](http://product.dangdang.com/1572927332.html)
+
 2. [*Virtual Machines*](https://www.amazon.com/dp/1852339691) --Iain D. Craig
 
 3. [*Advanced Design and Implementation of Virtual Machines*](https://www.amazon.com/dp/B01MXZWNQP/) --Xiao-Feng Li
