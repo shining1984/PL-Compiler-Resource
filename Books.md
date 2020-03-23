@@ -24,6 +24,10 @@ Other Resource:
 
 6. [*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
 
+7. [*Optimizing Compilers for Modern Architectures*](https://www.amazon.com/dp/8181473663/) -- Allen
+
+    [中文版：《现代体系结构的优化编译器》](https://book.douban.com/subject/1171448/)
+
 ## Program Analysis
 
 1. [*Lecture Notes on Static Analysis*](https://lara.epfl.ch/w/_media/sav08:schwartzbach.pdf) --Michael I. Schwartzbach
@@ -34,7 +38,7 @@ Other Resource:
 
 1. [*Virtual Machines: Versatile Platforms for Systems and Processes*](https://www.amazon.com/dp/1558609105) --Jim Smith, Ravi Nair
 
-    [中文版](http://product.dangdang.com/1572927332.html)
+    [中文版：《虚拟机：系统与进程的通用平台》](https://book.douban.com/subject/3611865/)
 
 2. [*Virtual Machines*](https://www.amazon.com/dp/1852339691) --Iain D. Craig
 
