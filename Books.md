@@ -28,6 +28,26 @@ Other Resource:
 
     [中文版：《现代体系结构的优化编译器》](https://book.douban.com/subject/1171448/)
 
+8. [*flex & bison: Text Processing Tools*](https://www.amazon.com/dp/0596155972/) --John Levine
+
+    [中文版：flex与bison](https://book.douban.com/subject/6109479/)
+
+9. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
+
+10. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
+
+11. [*Advanced C and C++ Compiling*](https://www.amazon.com/dp/B01HXFLQH0/) --Milan Stevanovic
+
+    [中文版：《高级C/C++编译技术》](https://book.douban.com/subject/26414485/)
+
+12. [*A Retargetable C Compiler: Design and Implementation*](https://www.amazon.com/dp/0805316701/) --David R. Hanson,Christopher W. Fraser
+
+    [中文版：《可变目标C编译器》](https://book.douban.com/subject/26915591/)
+
+13. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+
+14. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
+
 ## Program Analysis
 
 1. [*Lecture Notes on Static Analysis*](https://lara.epfl.ch/w/_media/sav08:schwartzbach.pdf) --Michael I. Schwartzbach
@@ -55,3 +75,7 @@ Other Resource:
 3. [*The Implementation of Functional Programming Languages*](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2F) --[Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/)
 
 4. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
+
+5. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
+
+6. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
