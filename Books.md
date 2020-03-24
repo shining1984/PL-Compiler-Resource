@@ -44,9 +44,11 @@ Other Resource:
 
     [中文版：《可变目标C编译器》](https://book.douban.com/subject/26915591/)
 
-13. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+13. [*High-Performance Compilers for Parallel Computing*](https://www.amazon.com/dp/0805327304) --Michael Wolfe
 
-14. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
+14. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+
+15. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
 
 ## Program Analysis
 
