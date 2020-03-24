@@ -20,35 +20,37 @@ Other Resource:
 
 4. [*Engineering a Compiler(Second Edition)*](https://www.amazon.com/dp/012088478X/) --Keith D.Copper, Linda Torczon
 
-5. [*Linkers & Loaders*](https://www.amazon.com/dp/1558604960/) --John R. Levine
+5. [*Modern Compiler Design(Second Edition)*](https://www.amazon.com/dp/149394472X) --Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
 
-6. [*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
+6. [*Linkers & Loaders*](https://www.amazon.com/dp/1558604960/) --John R. Levine
 
-7. [*Optimizing Compilers for Modern Architectures*](https://www.amazon.com/dp/8181473663/) -- Allen
+7. [*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
+
+8. [*Optimizing Compilers for Modern Architectures*](https://www.amazon.com/dp/8181473663/) -- Allen
 
     [中文版：《现代体系结构的优化编译器》](https://book.douban.com/subject/1171448/)
 
-8. [*flex & bison: Text Processing Tools*](https://www.amazon.com/dp/0596155972/) --John Levine
+9. [*flex & bison: Text Processing Tools*](https://www.amazon.com/dp/0596155972/) --John Levine
 
     [中文版：flex与bison](https://book.douban.com/subject/6109479/)
 
-9. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
+10. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
 
-10. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
+11. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
 
-11. [*Advanced C and C++ Compiling*](https://www.amazon.com/dp/B01HXFLQH0/) --Milan Stevanovic
+12. [*Advanced C and C++ Compiling*](https://www.amazon.com/dp/B01HXFLQH0/) --Milan Stevanovic
 
     [中文版：《高级C/C++编译技术》](https://book.douban.com/subject/26414485/)
 
-12. [*A Retargetable C Compiler: Design and Implementation*](https://www.amazon.com/dp/0805316701/) --David R. Hanson,Christopher W. Fraser
+13. [*A Retargetable C Compiler: Design and Implementation*](https://www.amazon.com/dp/0805316701/) --David R. Hanson,Christopher W. Fraser
 
     [中文版：《可变目标C编译器》](https://book.douban.com/subject/26915591/)
 
-13. [*High-Performance Compilers for Parallel Computing*](https://www.amazon.com/dp/0805327304) --Michael Wolfe
+14. [*High-Performance Compilers for Parallel Computing*](https://www.amazon.com/dp/0805327304) --Michael Wolfe
 
-14. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+15. [《编译系统透视》](https://book.douban.com/subject/26762311/)
 
-15. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
+16. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
 
 ## Program Analysis
 
