@@ -28,6 +28,8 @@ Other Resource:
 
     [COMP 412: Compiler Construction for Undergraduates](https://www.clear.rice.edu/comp412/) --Keith Cooper, Michael Burke
 
+    [COMP 512: Advanced Compiler Construction](https://www.clear.rice.edu/comp512/)
+
 4. California State University, Sacramento
 
     CSC 151: Compiler Construction  --[Bilibili video](https://www.bilibili.com/video/av81692863)
@@ -69,6 +71,14 @@ Other Resource:
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049) --吴伟
 
     方舟编译器短视频 --[slides](https://github.com/shining1984/talks/tree/master/bilibili-video-slides) --[Bilibili video](https://space.bilibili.com/46326151/channel/detail?cid=98337) --史宁宁
+
+12. University of Toronto
+
+    [CSCD70 COMPILER OPTIMIZATION](http://www.cs.toronto.edu/~pekhimenko/courses/cscd70-w20/index.html)
+
+12. Carnegie Mellon University
+
+    [CS745: Optimizing Compilers](https://www.cs.cmu.edu/~15745/)
 
 ## Program Analysis
 
