@@ -48,9 +48,21 @@ Other Resource:
 
 14. [*High-Performance Compilers for Parallel Computing*](https://www.amazon.com/dp/0805327304) --Michael Wolfe
 
-15. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+15. [*Writing Compilers and Interpreters: A Software Engineering Approach (3rd Edition)*](https://www.amazon.com/dp/0470177071/) --Ronald Mak
 
-16. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
+16. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+
+17. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
+
+## Compilers -LLVM
+
+1. [*Getting Started with LLVM Core Libraries*](https://www.amazon.com/dp/1782166920/) --Bruno Cardoso Lopes, Rafael Auler
+
+   [中文版：《LLVM编译器实战教程》](https://book.douban.com/subject/34802579/)
+
+2. [*LLVM Essentials: Become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler*](https://www.amazon.com/dp/1785280805/) -- Suyog Sarda, Mayur Pandey
+
+3. [*LLVM Cookbook*](https://www.amazon.com/dp/178528598X/) --Mayur Pandey, Suyog Sarda
 
 ## Program Analysis
 
@@ -83,3 +95,5 @@ Other Resource:
 5. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
 
 6. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
+
+7. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
