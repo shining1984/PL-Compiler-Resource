@@ -101,7 +101,7 @@ Other Resource:
 
 	01：[Introduction](https://www.bilibili.com/video/av91858985) 02: [Intermediate Representation](https://www.bilibili.com/video/av93643665) 03: [Data Flow Analysis I](https://www.bilibili.com/video/av95400721) 04: [Data Flow Analysis II](https://www.bilibili.com/video/av97277892)
 
-    05: [Data Flow Analysis - Foundations I](https://www.bilibili.com/video/BV1A741117it) 06: [Data Flow Analysis - Foundations II](https://www.bilibili.com/video/BV1964y1M7nL)
+    05: [Data Flow Analysis - Foundations I](https://www.bilibili.com/video/BV1A741117it) 06: [Data Flow Analysis - Foundations II](https://www.bilibili.com/video/BV1964y1M7nL) 07: [Interprocedural Analysis](https://www.bilibili.com/video/BV1GQ4y1T7zm)
 
 7. 燧原科技
 
