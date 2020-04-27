@@ -95,7 +95,7 @@ Other Resource:
 
 6. Nanjing University
 
-    Software Analysis --Yue Li(李樾), Tian Tan(谭添)
+    [Software Analysis](https://pascal-group.bitbucket.io/teaching.html) --Yue Li(李樾), Tian Tan(谭添)
 
     --Bilibili video:
 
