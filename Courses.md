@@ -101,7 +101,9 @@ Other Resource:
 
 	01：[Introduction](https://www.bilibili.com/video/av91858985) 02: [Intermediate Representation](https://www.bilibili.com/video/av93643665) 03: [Data Flow Analysis I](https://www.bilibili.com/video/av95400721) 04: [Data Flow Analysis II](https://www.bilibili.com/video/av97277892)
 
-    05: [Data Flow Analysis - Foundations I](https://www.bilibili.com/video/BV1A741117it) 06: [Data Flow Analysis - Foundations II](https://www.bilibili.com/video/BV1964y1M7nL) 07: [Interprocedural Analysis](https://www.bilibili.com/video/BV1GQ4y1T7zm)
+    05: [Data Flow Analysis - Foundations I](https://www.bilibili.com/video/BV1A741117it) 06: [Data Flow Analysis - Foundations II](https://www.bilibili.com/video/BV1964y1M7nL) 07: [Interprocedural Analysis](https://www.bilibili.com/video/BV1GQ4y1T7zm) 08: [Pointer Analysis](https://www.bilibili.com/video/BV1gg4y1z78p)
+
+    (本课程后续不再录制视频，课程相关PPT和信息在课程网站获取。)
 
 7. 燧原科技
 
@@ -112,6 +114,8 @@ Other Resource:
     01: [编译器简介+从源码到运行](https://www.bilibili.com/video/av88720239) 02: [BB+CFG+Local_optimization](https://www.bilibili.com/video/av88807060) 03: [DFA1](https://www.bilibili.com/video/av89910858) 04: [DFA2](https://www.bilibili.com/video/av91744591)
 
     05: [WorkList](https://www.bilibili.com/video/av93563697) 06: [Pointer Analysis](https://www.bilibili.com/video/av97161822) 07: [SSA](https://www.bilibili.com/video/BV1si4y1b7YG) 08: [Register Allocation](https://www.bilibili.com/video/BV1ve411x7X1)
+
+    09: [Case Study & ILP(I)](https://www.bilibili.com/video/BV1MT4y1G78a) 10: [ILP(II) Instruction Scheduling](https://www.bilibili.com/video/BV1ii4y187FZ) (完结)
 
 ## Virtual Machine && Runtime
 
