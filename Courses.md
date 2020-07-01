@@ -14,7 +14,7 @@ Other Resource:
 
 1. Stanford University
 
-    [CS143: Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+    [CS143: Compilers](http://web.stanford.edu/class/cs143/)
 
     [CS243: Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
 
@@ -99,9 +99,11 @@ Other Resource:
 
 4. Federal University of Minas Gerais:  [DCC888: Static Program Analysis](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/) --Fernando M Q Pereira
 
-5. Peking University:  [Software Analysis](https://xiongyingfei.github.io/SA/2019/main.htm) --Yingfei Xiong(熊英飞)
+5. Carnegie Mellon University:  [17-355/17-665/17-819 Program Analysis](http://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/)
 
-6. Nanjing University
+6. Peking University:  [Software Analysis](https://xiongyingfei.github.io/SA/2019/main.htm) --Yingfei Xiong(熊英飞)
+
+7. Nanjing University
 
     [Software Analysis](https://pascal-group.bitbucket.io/teaching.html) --Yue Li(李樾), Tian Tan(谭添)
 
@@ -111,9 +113,9 @@ Other Resource:
 
     05: [Data Flow Analysis - Foundations I](https://www.bilibili.com/video/BV1A741117it) 06: [Data Flow Analysis - Foundations II](https://www.bilibili.com/video/BV1964y1M7nL) 07: [Interprocedural Analysis](https://www.bilibili.com/video/BV1GQ4y1T7zm) 08: [Pointer Analysis](https://www.bilibili.com/video/BV1gg4y1z78p)
 
-    (本课程后续不再录制视频，课程相关PPT和信息在课程网站获取。)
+    (该课程已经完结。该课程第8次课后，不再录制视频，课程相关PPT和信息在课程网站获取。)
 
-7. 燧原科技
+8. 燧原科技
 
     《编译优化》--官孝峰
 
