@@ -80,6 +80,8 @@ Other Resource:
 
 3. [*Advanced Design and Implementation of Virtual Machines*](https://www.amazon.com/dp/B01MXZWNQP/) --Xiao-Feng Li
 
+    [中文版：《虚拟机设计与实现——以JVM为例》](https://book.douban.com/subject/34935105/)
+
 ## Programming Languages
 
 1. [*Programming Languages: Application and Interpretation*](https://www.plai.org/) --[Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
