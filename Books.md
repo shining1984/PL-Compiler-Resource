@@ -84,6 +84,10 @@ Other Resource:
 
 4. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
 
+5. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+
+6. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
+
 ## Programming Languages
 
 1. [*Programming Languages: Application and Interpretation*](https://www.plai.org/) --[Shriram Krishnamurthi](https://cs.brown.edu/~sk/)
