@@ -36,6 +36,8 @@ Other Resource:
 
 10. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
 
+    [中文版：《解析技术》(翻译中)](https://github.com/duguying/parsing-techniques)
+
 11. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
 
 12. [*Advanced C and C++ Compiling*](https://www.amazon.com/dp/B01HXFLQH0/) --Milan Stevanovic
