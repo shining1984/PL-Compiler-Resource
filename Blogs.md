@@ -57,3 +57,5 @@ Other Resource:
 ## Blog 文章
 
 1. [对 Parser 的误解](http://www.yinwang.org/blog-cn/2015/09/19/parser) --王垠
+
+2. [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)
