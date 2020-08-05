@@ -6,6 +6,8 @@ Other Resource:
 
 [Books](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Books.md)
 
+[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
+
 [Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
 
 [Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)

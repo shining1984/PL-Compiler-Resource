@@ -8,6 +8,8 @@ Other Resource:
 
 [Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
 
+[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
+
 [Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
 
 ## Compilers
@@ -31,6 +33,18 @@ Other Resource:
 9. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
 
 10. [小乖他爹](https://www.zhihu.com/people/shiningning)
+
+11. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
+
+    PLCT实验室的公开演讲，或者决定公开的组内报告。
+
+12. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
+
+    PLCT开源基础软件进展（半月刊）。
+
+13. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
+
+    PLCT实验室收集的方舟编译器的相关分析文章和新闻。
 
 ## Program Analysis
 

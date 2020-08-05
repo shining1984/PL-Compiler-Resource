@@ -8,6 +8,8 @@ Other Resource:
 
 [Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
 
+[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
+
 [Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
 
 ## Conferences
