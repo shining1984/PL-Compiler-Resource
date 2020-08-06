@@ -37,3 +37,7 @@ The Eclipse OMR project is a set of open source C and C++ components that can be
 1. [clang-tutor](https://github.com/banach-space/clang-tutor)
 
 clang-tutor is a collection of self-contained reference Clang plugins. It's a tutorial that targets novice and aspiring Clang developers.
+
+2. [Redex](https://fbredex.com/)
+
+ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. It provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes that use this framework to improve the bytecode. An APK optimized by ReDex should be smaller and faster than its source.
