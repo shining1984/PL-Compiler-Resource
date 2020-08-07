@@ -50,14 +50,26 @@ clang-tutor is a collection of self-contained reference Clang plugins. It's a tu
 
 DG is a library containing various bits for program analysis. However, the main motivation of this library is program slicing. The library contains implementation of a pointer analysis, data dependence analysis, control dependence analysis, and an analysis of relations between values in LLVM bitcode. All of the analyses target LLVM bitcode, but most of them are written in a generic way, so they are not dependent on LLVM in particular.
 
-5. [Redex](https://fbredex.com/)
+5. [Bear](https://github.com/rizsotto/Bear)
+
+Bear is a tool that generates a compilation database for clang tooling.
+
+6. [compiledb](https://github.com/nickdiego/compiledb)
+
+Tool for generating Clang's JSON Compilation Database file for GNU make-based build systems.
+
+7. [Redex](https://fbredex.com/)
 
 ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. It provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes that use this framework to improve the bytecode. An APK optimized by ReDex should be smaller and faster than its source.
 
-6. [pyright](https://github.com/microsoft/pyright)
+8. [pyright](https://github.com/microsoft/pyright)
 
 Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
-7. [Ripes](https://github.com/mortbopet/Ripes)
+9. [Ripes](https://github.com/mortbopet/Ripes)
 
 Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V instruction set architecture.
+
+10. [soot](https://github.com/soot-oss/soot)
+
+Soot is a Java optimization framework. It provides four intermediate representations for analyzing and transforming Java bytecode: Baf, Jimple, Shimple, Grimp.
