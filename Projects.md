@@ -49,3 +49,7 @@ ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. I
 4. [pyright](https://github.com/microsoft/pyright)
 
 Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+
+5. [Ripes](https://github.com/mortbopet/Ripes)
+
+Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V instruction set architecture.
