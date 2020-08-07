@@ -34,10 +34,18 @@ The Eclipse OMR project is a set of open source C and C++ components that can be
 
 ## Tools
 
-1. [clang-tutor](https://github.com/banach-space/clang-tutor)
+1. [screader](https://github.com/shining1984/screader)
+
+The screader is a soure code reading tool based the libclang. It is implemented by the C. The screader can work on the clang-10.0.0 now.
+
+2. [clang-tutor](https://github.com/banach-space/clang-tutor)
 
 clang-tutor is a collection of self-contained reference Clang plugins. It's a tutorial that targets novice and aspiring Clang developers.
 
-2. [Redex](https://fbredex.com/)
+3. [Redex](https://fbredex.com/)
 
 ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. It provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes that use this framework to improve the bytecode. An APK optimized by ReDex should be smaller and faster than its source.
+
+4. [pyright](https://github.com/microsoft/pyright)
+
+Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
