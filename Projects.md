@@ -32,7 +32,7 @@ OpenArkCompiler是来自华为方舟编译器的开源项目。
 
 The Eclipse OMR project is a set of open source C and C++ components that can be used to build robust language runtimes that support many different hardware and operating system platforms.
 
-## Tools
+## Tools-LLVM/Clang
 
 1. [screader](https://github.com/shining1984/screader)
 
@@ -58,18 +58,24 @@ Bear is a tool that generates a compilation database for clang tooling.
 
 Tool for generating Clang's JSON Compilation Database file for GNU make-based build systems.
 
-7. [Redex](https://fbredex.com/)
+## Tools-Java/Android
+
+1. [Redex](https://fbredex.com/)
 
 ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. It provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes that use this framework to improve the bytecode. An APK optimized by ReDex should be smaller and faster than its source.
 
-8. [pyright](https://github.com/microsoft/pyright)
+2. [soot](https://github.com/soot-oss/soot)
 
-Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+Soot is a Java optimization framework. It provides four intermediate representations for analyzing and transforming Java bytecode: Baf, Jimple, Shimple, Grimp.
 
-9. [Ripes](https://github.com/mortbopet/Ripes)
+## Tools-RISC-V
+
+1. [Ripes](https://github.com/mortbopet/Ripes)
 
 Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V instruction set architecture.
 
-10. [soot](https://github.com/soot-oss/soot)
+## Tools-Others
 
-Soot is a Java optimization framework. It provides four intermediate representations for analyzing and transforming Java bytecode: Baf, Jimple, Shimple, Grimp.
+1. [pyright](https://github.com/microsoft/pyright)
+
+Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
