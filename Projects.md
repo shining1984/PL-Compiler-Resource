@@ -42,14 +42,18 @@ The screader is a soure code reading tool based the libclang. It is implemented 
 
 clang-tutor is a collection of self-contained reference Clang plugins. It's a tutorial that targets novice and aspiring Clang developers.
 
-3. [Redex](https://fbredex.com/)
+3. [DG](https://github.com/mchalupa/dg)
+
+DG is a library containing various bits for program analysis. However, the main motivation of this library is program slicing. The library contains implementation of a pointer analysis, data dependence analysis, control dependence analysis, and an analysis of relations between values in LLVM bitcode. All of the analyses target LLVM bitcode, but most of them are written in a generic way, so they are not dependent on LLVM in particular.
+
+4. [Redex](https://fbredex.com/)
 
 ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. It provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes that use this framework to improve the bytecode. An APK optimized by ReDex should be smaller and faster than its source.
 
-4. [pyright](https://github.com/microsoft/pyright)
+5. [pyright](https://github.com/microsoft/pyright)
 
 Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
-5. [Ripes](https://github.com/mortbopet/Ripes)
+6. [Ripes](https://github.com/mortbopet/Ripes)
 
 Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V instruction set architecture.
