@@ -98,14 +98,18 @@ Other Resource:
 
     [中文版](https://github.com/lotuc/PLAI-cn)
 
-2. [*Essentials of Programming Languages*](http://www.eopl3.com/) --Third Edition
+2. [*Essentials of Programming Languages (Third Edition)*](http://www.eopl3.com/)
 
-3. [*The Implementation of Functional Programming Languages*](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2F) --[Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/)
+3. [*Programming Language Pragmatics (Fourth Edition)*](https://book.douban.com/subject/26424018/) --Michael L. Scott
 
-4. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
+    [中文版：《程序设计语言：实践之路（第3版）》](https://book.douban.com/subject/10802357/)
 
-5. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
+4. [*The Implementation of Functional Programming Languages*](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2F) --[Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/)
 
-6. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
+5. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
 
-7. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
+6. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
+
+7. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
+
+8. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
