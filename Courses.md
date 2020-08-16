@@ -190,3 +190,11 @@ Other Resource:
     [P523: Programming Language Implementation](https://homes.luddy.indiana.edu/achauhan/Teaching/P523/2013-Spring/) --Arun Chauhan
 
     [C311/B521/A596: Programming Languages](https://cgi.soic.indiana.edu/~c311/doku.php) --[Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)
+
+8. Nanjing University
+
+    [程序设计语言的形式语义](https://cs.nju.edu.cn/hongjin/teaching/semantics/index.htm)  -- Hongjin Liang(梁红瑾)
+
+    [CS61a: Structure and Interpretation of Computer Programs](https://cs.nju.edu.cn/xyfeng/teaching/SICP/) -- Xinyu Feng(冯新宇)
+
+    [CS242: Foundations os Programming Languages](https://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html) -- Xinyu Feng(冯新宇)
