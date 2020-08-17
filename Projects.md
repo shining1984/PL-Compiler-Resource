@@ -26,6 +26,7 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 
 OpenArkCompiler是来自华为方舟编译器的开源项目。
 
+
 ## Runtime && VM
 
 1. [OMR](https://github.com/eclipse/omr)
@@ -68,14 +69,30 @@ ReDex is an Android bytecode (dex) optimizer originally developed at Facebook. I
 
 Soot is a Java optimization framework. It provides four intermediate representations for analyzing and transforming Java bytecode: Baf, Jimple, Shimple, Grimp.
 
+3. [simple-dvm](https://github.com/jserv/simple-dvm)
+
+This is a simplified Dalvik virtual machine implementation written from scratch used for education purpose.
+
+4. [PitifulVM](https://github.com/jserv/pitifulvm)
+
+A shabby implementation of Java virtual machine in C.
+
 ## Tools-RISC-V
 
 1. [Ripes](https://github.com/mortbopet/Ripes)
 
 Ripes is a visual computer architecture simulator and assembly code editor built for the RISC-V instruction set architecture.
 
+2. [RISC-V RV32I[MA] emulator with ELF support](https://github.com/sysprog21/rv32emu)
+
+This is a RISC-V emulator for the RV32I architecture, based on TinyEMU and stripped down for RV32I only.
+
 ## Tools-Others
 
 1. [pyright](https://github.com/microsoft/pyright)
 
 Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+
+2. [Interpreter, Compiler, JIT](https://github.com/jserv/jit-construct)
+
+This repository contains the programs used in Nick Desaulniers' blog post; an interpreter, a compiler, and a Just In Time (JIT) compiler for the brainfuck language. It is meant to show how similar these techniques are, and then improved by several students who learnt system programming to bring X86/ARM backend along with DynASM support.
