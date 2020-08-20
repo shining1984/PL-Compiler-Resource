@@ -111,5 +111,3 @@ Other Resource:
 6. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
 
 7. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
-
-8. [*Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers)*](https://www.amazon.com/dp/193435645X/) --Terence Parr
