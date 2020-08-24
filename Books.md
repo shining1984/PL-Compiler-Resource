@@ -86,11 +86,13 @@ Other Resource:
 
     [中文版：《虚拟机设计与实现——以JVM为例》](https://book.douban.com/subject/34935105/)
 
-4. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
+4. [*The Garbage Collection Handbook*](http://gchandbook.org/)
 
-5. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+5. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
 
-6. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
+6. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+
+7. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
 
 ## Programming Languages
 
@@ -111,3 +113,13 @@ Other Resource:
 6. [*Types and Programming Languages*](https://www.amazon.com/dp/0262162091/) --Benjamin C. Pierce
 
 7. [*Advanced Topics in Types and Programming Languages*](https://www.amazon.com/dp/B008UZ02BE/) --Benjamin C. Pierce
+
+8. [*Concepts of Programming Languages (11th Edition)*](https://www.amazon.com/dp/9353438896) --Robert W. Sebesta
+
+9. [*Design Concepts in Programming Languages *](http://dcpl.mit.edu/) --Franklyn Turbak and David Gifford
+
+10. [*Concepts, Techniques and Models of Computer Programming*](https://www.info.ucl.ac.be/~pvr/book.html) --Peter Van Roy and Seif Haridi
+
+11. [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs)
+
+    [相关资源](https://github.com/DeathKing/Learning-SICP)

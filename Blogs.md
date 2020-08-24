@@ -54,6 +54,8 @@ Other Resource:
 
 1. [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
 
+2. [A path to enlightenment in Programming Language Theory](https://steshaw.org/plt/) --Steven Shaw
+
 ## Blog 文章
 
 1. [对 Parser 的误解](http://www.yinwang.org/blog-cn/2015/09/19/parser) --王垠
