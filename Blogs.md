@@ -1,17 +1,5 @@
 # The Blogs about PL and Compiler
 
-Other Resource:
-
-[Courses](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Courses.md)
-
-[Books](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Books.md)
-
-[Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
-
-[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
-
-[Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
-
 ## Compilers
 
 1. [Chris Lattner's Homepage](http://nondot.org/sabre/)

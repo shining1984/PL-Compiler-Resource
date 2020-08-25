@@ -1,17 +1,5 @@
 # The Conferences and Journals about PL and Compiler
 
-Other Resource:
-
-[Courses](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Courses.md)
-
-[Books](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Books.md)
-
-[Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
-
-[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
-
-[Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
-
 ## Conferences
 
 1. CC: Compiler Construction

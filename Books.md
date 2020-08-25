@@ -1,17 +1,5 @@
 # The Books about PL and Compiler
 
-Other Resource:
-
-[Courses](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Courses.md)
-
-[Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
-
-[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
-
-[Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
-
-[Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
-
 ## Compilers
 
 1. [*Compilers: Principles, Techniques, and Tools(Second Edition)*](https://www.amazon.com/dp/0321486811/) --Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jefrey D. Ullman

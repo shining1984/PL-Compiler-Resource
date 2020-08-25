@@ -1,17 +1,5 @@
 # The Courses about PL and Compiler
 
-Other Resource:
-
-[Books](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Books.md)
-
-[Papers](https://github.com/shining1984/PL-Compiler-Course-Collection/blob/master/Papers.md)
-
-[Projects](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Projects.md)
-
-[Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
-
-[Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
-
 ## Compilers
 
 1. Stanford University
@@ -90,6 +78,23 @@ Other Resource:
 
     方舟编译器短视频 --[slides](https://github.com/shining1984/talks/tree/master/bilibili-video-slides) --[Bilibili video](https://space.bilibili.com/46326151/channel/detail?cid=98337) --史宁宁
 
+## 国内大学编译原理课程
+
+1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
+
+2. 中国科学技术大学
+
+    编译原理 --[Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
+
+    [Principles and Techniques of Compiler](http://staff.ustc.edu.cn/~chengli7/courses/compiler19/)  --[李诚](http://staff.ustc.edu.cn/~chengli7/)
+
+3. 哈尔滨工业大学 --[Bilibili video](https://www.bilibili.com/video/av89903205) --陈鄞
+
+4. 西安交通大学 --[Bilibili video](https://www.bilibili.com/video/av33392713) --冯博琴
+
+5. 东南大学 --[Bilibili video](https://www.bilibili.com/video/av17869142) --廖力
+
+6. 国防科技大学 --[Bilibili video](https://www.bilibili.com/video/av59119931) --王挺
 
 ## Program Analysis
 
@@ -139,24 +144,6 @@ Other Resource:
 
     [2016(Cumberland Lodge,UK)](https://soft-dev.org/events/vmss16/)
 
-## 国内大学编译原理课程
-
-1. [清华大学](https://github.com/chyyuu/compiler_course_info) --王生原,陈 渝,姚海龙
-
-2. 中国科学技术大学
-
-    编译原理 --[Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
-
-    [Principles and Techniques of Compiler](http://staff.ustc.edu.cn/~chengli7/courses/compiler19/)  --[李诚](http://staff.ustc.edu.cn/~chengli7/)
-
-3. 哈尔滨工业大学 --[Bilibili video](https://www.bilibili.com/video/av89903205) --陈鄞
-
-4. 西安交通大学 --[Bilibili video](https://www.bilibili.com/video/av33392713) --冯博琴
-
-5. 东南大学 --[Bilibili video](https://www.bilibili.com/video/av17869142) --廖力
-
-6. 国防科技大学 --[Bilibili video](https://www.bilibili.com/video/av59119931) --王挺
-
 ## Programming Languages
 
 1. Brown University
@@ -201,7 +188,7 @@ Other Resource:
 
 9. [OPLSS — Oregon Programming Language Summer Schoo](https://www.cs.uoregon.edu/research/summerschool/summer20/)
 
-    [2020(Canceled)]
+    2020:Due to the unprecedented public health crisis caused by the Covid-19 outbreak, the organisers of OPLSS2020 have decided to cancel the event for this summer.
 
     [2019:Foundations of Probabilistic Programming and Security](https://www.cs.uoregon.edu/research/summerschool/summer19/topics.php)
 
