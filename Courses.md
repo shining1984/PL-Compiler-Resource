@@ -198,3 +198,43 @@ Other Resource:
     [CS61a: Structure and Interpretation of Computer Programs](https://cs.nju.edu.cn/xyfeng/teaching/SICP/) -- Xinyu Feng(冯新宇)
 
     [CS242: Foundations os Programming Languages](https://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html) -- Xinyu Feng(冯新宇)
+
+9. [OPLSS — Oregon Programming Language Summer Schoo](https://www.cs.uoregon.edu/research/summerschool/summer20/)
+
+    [2020(Canceled)]
+
+    [2019:Foundations of Probabilistic Programming and Security](https://www.cs.uoregon.edu/research/summerschool/summer19/topics.php)
+
+    [2018:Parallelism and Concurrency](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php)
+
+    [2017:A Spectrum of Types](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)
+
+    [2016:Types, Logic, Semantics, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
+
+    [2015:Types, Logic, Semantics, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
+
+    [2014:Types, Logic, Semantics, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
+
+    [2013:Types, Logic, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+
+    [2012:Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+
+    [2011:Types, Semantics and Verification](https://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html)
+
+    [2010:Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html)
+
+    [2009:Theory & Practice of Language Implementation](https://www.cs.uoregon.edu/research/summerschool/summer09/)
+
+    [2008:Logic and Theorem Proving](https://www.cs.uoregon.edu/research/summerschool/summer08/)
+
+    [2007:Integrating with the External World](https://www.cs.uoregon.edu/research/summerschool/summer07/)
+
+    [2006:Concurrent and Distributed Software](https://www.cs.uoregon.edu/research/summerschool/summer06/)
+
+    [2005:Reliable Computing](https://www.cs.uoregon.edu/research/summerschool/summer05/)
+
+    [2004:Software Security](https://www.cs.uoregon.edu/research/summerschool/summer04/)
+
+    [2003:Foundations of Security](https://www.cs.uoregon.edu/research/summerschool/summer03/)
+
+    [2002:Proofs as Programs](https://www.cs.uoregon.edu/research/summerschool/summer02/)
