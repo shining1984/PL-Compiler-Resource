@@ -47,6 +47,10 @@ Bear is a tool that generates a compilation database for clang tooling.
 
 Tool for generating Clang's JSON Compilation Database file for GNU make-based build systems.
 
+7. [phasar](https://github.com/secure-software-engineering/phasar)
+
+Phasar is a LLVM-based static analysis framework written in C++. It allows users to specify arbitrary data-flow problems which are then solved in a fully-automated manner on the specified LLVM IR target code. Computing points-to information, call-graph(s), etc. is done by the framework, thus you can focus on what matters.
+
 ## Tools-Java/Android
 
 1. [Redex](https://fbredex.com/)
