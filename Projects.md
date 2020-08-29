@@ -88,3 +88,7 @@ Pyright is a fast type checker meant for large Python source bases. It can run i
 2. [Interpreter, Compiler, JIT](https://github.com/jserv/jit-construct)
 
 This repository contains the programs used in Nick Desaulniers' blog post; an interpreter, a compiler, and a Just In Time (JIT) compiler for the brainfuck language. It is meant to show how similar these techniques are, and then improved by several students who learnt system programming to bring X86/ARM backend along with DynASM support.
+
+3. [PMD](https://github.com/pmd/pmd)
+
+PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, JavaScript, Salesforce.com Apex and Visualforce, Modelica, PLSQL, Apache Velocity, XML, XSL, Scala.
