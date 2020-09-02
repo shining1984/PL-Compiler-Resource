@@ -104,7 +104,7 @@
 
 3. Aarhus University:  [Static Program Analysis](https://cs.au.dk/~amoeller/spa/)
 
-4. Federal University of Minas Gerais:  [DCC888: Static Program Analysis](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/) --Fernando M Q Pereira
+4. Federal University of Minas Gerais:  [DCC888: Static Program Analysis](https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/) [YOUTUBE video](https://www.youtube.com/watch?v=uHmRZtrBCac&list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU) --Fernando M Q Pereira
 
 5. Carnegie Mellon University:  [17-355/17-665/17-819 Program Analysis](http://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/)
 
