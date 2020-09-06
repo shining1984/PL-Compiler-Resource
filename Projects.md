@@ -51,6 +51,10 @@ Tool for generating Clang's JSON Compilation Database file for GNU make-based bu
 
 Phasar is a LLVM-based static analysis framework written in C++. It allows users to specify arbitrary data-flow problems which are then solved in a fully-automated manner on the specified LLVM IR target code. Computing points-to information, call-graph(s), etc. is done by the framework, thus you can focus on what matters.
 
+8. [SVF](https://github.com/SVF-tools/SVF)
+
+SVF is a source code analysis tool that enables interprocedural dependence analysis for LLVM-based languages. SVF is able to perform pointer alias analysis, memory SSA form construction, value-flow tracking for program variables and memory error checking.
+
 ## Tools-Java/Android
 
 1. [Redex](https://fbredex.com/)
