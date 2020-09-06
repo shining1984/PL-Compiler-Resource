@@ -138,7 +138,7 @@
 
 1. University of California, Berkeley
 
-    [CS294-113: Virtual Machines and Managed Runtimes](http://www.wolczko.com/CS294/)
+    [CS294-113: Virtual Machines and Managed Runtimes](http://www.wolczko.com/CS294/) [Bilibili video](https://www.bilibili.com/video/BV11W41157G9)
 
 2. Virtual Machines Summer School
 
