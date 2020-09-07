@@ -2,35 +2,39 @@
 
 ## Compilers
 
-1. [Chris Lattner's Homepage](http://nondot.org/sabre/)
+1. [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 
-2. [Eli Bendersky's website](https://eli.thegreenplace.net/)
+Curated list of awesome resources on Compilers, Interpreters and Runtimes
 
-3. [LLVM Weekly](http://llvmweekly.org/)
+2. [Chris Lattner's Homepage](http://nondot.org/sabre/)
 
-4. [OSDT Weekly](https://github.com/hellogcc/osdt-weekly)
+3. [Eli Bendersky's website](https://eli.thegreenplace.net/)
 
-5. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
+4. [LLVM Weekly](http://llvmweekly.org/)
 
-6. [wuhui_gdnt的专栏](https://blog.csdn.net/wuhui_gdnt)
+5. [OSDT Weekly](https://github.com/hellogcc/osdt-weekly)
 
-7. [电影旅行敲代码](https://blog.csdn.net/dashuniuniu)
+6. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
 
-8. [蓝色](https://www.zhihu.com/people/lan-se-52-30)
+7. [wuhui_gdnt的专栏](https://blog.csdn.net/wuhui_gdnt)
 
-9. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
+8. [电影旅行敲代码](https://blog.csdn.net/dashuniuniu)
 
-10. [小乖他爹](https://www.zhihu.com/people/shiningning)
+9. [蓝色](https://www.zhihu.com/people/lan-se-52-30)
 
-11. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
+10. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
+
+11. [小乖他爹](https://www.zhihu.com/people/shiningning)
+
+12. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
 
     PLCT实验室的公开演讲，或者决定公开的组内报告。
 
-12. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
+13. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
 
     PLCT开源基础软件进展（半月刊）。
 
-13. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
+14. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
 
     PLCT实验室收集的方舟编译器的相关分析文章和新闻。
 
