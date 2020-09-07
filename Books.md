@@ -76,11 +76,13 @@
 
 4. [*The Garbage Collection Handbook*](http://gchandbook.org/)
 
-5. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
+5. [*The Java Virtual Machine Specification, Java SE 14 Edition*](https://docs.oracle.com/javase/specs/jvms/se14/jvms14.pdf)
 
-6. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+6. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
 
-7. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
+7. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+
+8. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
 
 ## Programming Languages
 
@@ -111,3 +113,9 @@
 11. [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs)
 
     [相关资源](https://github.com/DeathKing/Learning-SICP)
+
+## Others
+
+1. [*Java Native Interface Specification*](https://docs.oracle.com/en/java/javase/14/docs/specs/jni/index.html)
+
+2. [*The Java Native Interface: Programmer’s Guide and Specification*](https://www.oreilly.com/library/view/javatm-native-interface/0201325772/)
