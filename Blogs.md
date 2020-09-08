@@ -38,6 +38,12 @@ Curated list of awesome resources on Compilers, Interpreters and Runtimes
 
     PLCT实验室收集的方舟编译器的相关分析文章和新闻。
 
+## Virtual Machine
+
+1. [the Garbage Collection Page](https://www.cs.kent.ac.uk/people/staff/rej/gc.html) -Richard Jones
+
+the Garbage Collection page is a comprehensive resource for automatic dynamic memory management a.k.a garbage collection. As well as links to my book on garbage collection and my online, searchable memory management bibliography (over 1,900 entries), it includes links to other garbage collection resources such as software and conference proceedings.
+
 ## Program Analysis
 
 1. [Program Analysis Resources](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
