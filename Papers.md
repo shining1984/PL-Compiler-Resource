@@ -4,9 +4,11 @@
 
 1. [*An Efficient Method of Computing Static Single Assignment Form*](http://pages.cs.wisc.edu/~fischer/cs701.f08/ssa.pdf)
 
-2. [*Register allocation via coloring*](https://dl.acm.org/doi/10.5555/2245737.2245881)
+2. [*Simple and Efficient Construction of Static Single Assignment Form - CC 2013*](https://compilers.cs.uni-saarland.de/papers/bbhlmz13cc.pdf)
 
-3. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
+3. [*Register allocation via coloring*](https://dl.acm.org/doi/10.5555/2245737.2245881)
+
+4. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
 
 ## Programming Languages
 
