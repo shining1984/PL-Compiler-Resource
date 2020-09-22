@@ -14,6 +14,10 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 
 OpenArkCompiler是来自华为方舟编译器的开源项目。
 
+4. [shecc](https://github.com/jserv/shecc)
+
+shecc is built from scratch, targeted at 32-bit Arm architecture, as a self-compiling compiler for a subset of the C language.
+
 
 ## Runtime && VM
 
