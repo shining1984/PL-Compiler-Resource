@@ -100,6 +100,7 @@
 
 6. 国防科技大学 --[Bilibili video](https://www.bilibili.com/video/av59119931) --王挺
 
+7. 北京航空航天大学 --[icourse](http://www.icourses.cn/sCourse/course_3288.html) --张莉
 ## Program Analysis
 
 1. Stanford University:  [CS243: Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
