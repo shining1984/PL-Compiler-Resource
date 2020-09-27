@@ -227,5 +227,3 @@
     [2004:Software Security](https://www.cs.uoregon.edu/research/summerschool/summer04/)
 
     [2003:Foundations of Security](https://www.cs.uoregon.edu/research/summerschool/summer03/)  
-    
-    [2002:Proofs as Programs](https://www.cs.uoregon.edu/research/summerschool/summer02/)
