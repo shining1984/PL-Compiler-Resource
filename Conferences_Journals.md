@@ -14,6 +14,8 @@
 
 6. TOPLAS: ACM Transactions of Programming Languages and Systems
 
-7. [OSDT: 开源开发工具大会](http://www.hellogcc.org/)
+7. [HOPL IV: History of Programming Languages](https://hopl4.sigplan.org/)
+
+8. [OSDT: 开源开发工具大会](http://www.hellogcc.org/)
 
 ## Journals
