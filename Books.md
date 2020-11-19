@@ -74,7 +74,7 @@
 
     [中文版：《虚拟机设计与实现——以JVM为例》](https://book.douban.com/subject/34935105/)
 
-4. [*The Java Virtual Machine Specification, Java SE 14 Edition*](https://docs.oracle.com/javase/specs/jvms/se14/jvms14.pdf)
+4. [*The Java Virtual Machine Specification, Java SE 15 Edition*](https://docs.oracle.com/javase/specs/jvms/se15/jvms15.pdf)
 
 5. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
 
