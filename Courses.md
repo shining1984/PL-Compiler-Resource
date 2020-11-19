@@ -91,7 +91,11 @@
     编译原理 --[Bilibili video](https://www.bilibili.com/video/av33153096) --陈意云
 
     [Principles and Techniques of Compiler(2019)](http://staff.ustc.edu.cn/~chengli7/courses/compiler19/)  --[李诚](http://staff.ustc.edu.cn/~chengli7/)
-	
+
+	[Principles and Techniques of Compiler(2019)](http://staff.ustc.edu.cn/~yuzhang/compiler/2019f/schedule.html) --[张昱](http://staff.ustc.edu.cn/~yuzhang/)
+
+    [Principles and Techniques of Compiler(2020)](http://staff.ustc.edu.cn/~chengli7/courses/compiler20/)  --[李诚](http://staff.ustc.edu.cn/~chengli7/)
+
 	[Principles and Techniques of Compiler(2020)](http://staff.ustc.edu.cn/~yuzhang/compiler/2020f/schedule.html) --[张昱](http://staff.ustc.edu.cn/~yuzhang/)
 
 3. 哈尔滨工业大学 --[Bilibili video](https://www.bilibili.com/video/av89903205) --陈鄞
