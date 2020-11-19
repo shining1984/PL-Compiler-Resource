@@ -46,7 +46,7 @@
 
 17. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
 
-## Compilers -LLVM
+## Compilers-LLVM
 
 1. [*Getting Started with LLVM Core Libraries*](https://www.amazon.com/dp/1782166920/) --Bruno Cardoso Lopes, Rafael Auler
 
@@ -74,15 +74,26 @@
 
     [中文版：《虚拟机设计与实现——以JVM为例》](https://book.douban.com/subject/34935105/)
 
-4. [*The Garbage Collection Handbook*](http://gchandbook.org/)
+4. [*The Java Virtual Machine Specification, Java SE 14 Edition*](https://docs.oracle.com/javase/specs/jvms/se14/jvms14.pdf)
 
-5. [*The Java Virtual Machine Specification, Java SE 14 Edition*](https://docs.oracle.com/javase/specs/jvms/se14/jvms14.pdf)
+5. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
 
-6. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
+6. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
 
-7. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
+7. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
 
-8. [《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/) --周志明
+## Garbage Collection
+
+1. [*Garbage Collection:  Algorithms for Automatic Dynamic Memory Management*](https://book.douban.com/subject/2135376/) -- Richard Jones, Rafael D Lins
+
+    [中文版：《垃圾收集》](https://book.douban.com/subject/1157908/)
+
+2. [*The Garbage Collection Handbook*](http://gchandbook.org/) --Richard Jones, Antony Hosking, Eliot Moss
+
+    [中文版：《垃圾回收算法手册：自动内存管理的艺术》](https://book.douban.com/subject/26740958/)
+
+3. [《垃圾回收的算法与实现》](https://book.douban.com/subject/26821357/) --（日）中村成洋, 相川光 --（译者）丁灵
+
 
 ## Programming Languages
 
