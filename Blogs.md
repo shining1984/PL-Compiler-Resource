@@ -26,17 +26,19 @@
 
 11. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
 
-12. [小乖他爹](https://www.zhihu.com/people/shiningning)
+12. [MaskRay](http://maskray.me/)
 
-13. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
+13. [小乖他爹](https://www.zhihu.com/people/shiningning)
+
+14. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
 
     PLCT实验室的公开演讲，或者决定公开的组内报告。
 
-14. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
+15. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
 
     PLCT开源基础软件进展（半月刊）。
 
-15. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
+16. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
 
     PLCT实验室收集的方舟编译器的相关分析文章和新闻。
 
