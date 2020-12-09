@@ -12,33 +12,37 @@
 
 4. [Jay McCarthy's blog](https://jeapostrophe.github.io/)
 
-5. [LLVM Weekly](http://llvmweekly.org/)
+5. [wupeng](https://pengwu.substack.com)
 
-6. [OSDT Weekly](https://github.com/hellogcc/osdt-weekly)
+6. [Vyacheslav Egorov](https://mrale.ph/)
 
-7. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
+7. [LLVM Weekly](http://llvmweekly.org/)
 
-8. [wuhui_gdnt的专栏](https://blog.csdn.net/wuhui_gdnt)
+8. [OSDT Weekly](https://github.com/hellogcc/osdt-weekly)
 
-9. [电影旅行敲代码](https://blog.csdn.net/dashuniuniu)
+9. [OpenArcCompiler Weekly](https://zhuanlan.zhihu.com/llvm-clang)
 
-10. [蓝色](https://www.zhihu.com/people/lan-se-52-30)
+10. [wuhui_gdnt的专栏](https://blog.csdn.net/wuhui_gdnt)
 
-11. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
+11. [电影旅行敲代码](https://blog.csdn.net/dashuniuniu)
 
-12. [MaskRay](http://maskray.me/)
+12. [蓝色](https://www.zhihu.com/people/lan-se-52-30)
 
-13. [小乖他爹](https://www.zhihu.com/people/shiningning)
+13. [RednaxelaFX](https://www.zhihu.com/people/rednaxelafx)
 
-14. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
+14. [MaskRay](http://maskray.me/)
+
+15. [小乖他爹](https://www.zhihu.com/people/shiningning)
+
+16. [PLCT-Open-Reports](https://github.com/isrc-cas/PLCT-Open-Reports)
 
     PLCT实验室的公开演讲，或者决定公开的组内报告。
 
-15. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
+17. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
 
     PLCT开源基础软件进展（半月刊）。
 
-16. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
+18. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
 
     PLCT实验室收集的方舟编译器的相关分析文章和新闻。
 
