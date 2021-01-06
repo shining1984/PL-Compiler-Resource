@@ -28,7 +28,7 @@
 
     [CS426: Compiler Construction](https://courses.engr.illinois.edu/cs426/fa2019/)
 
-    CS526 Topics in Compiler Construction [2011](http://polaris.cs.uiuc.edu/~padua/cs526/) [2020](https://courses.engr.illinois.edu/cs526/sp2020/)
+    CS526 Topics in Compiler Construction [2011](http://polaris.cs.uiuc.edu/~padua/cs526/) [2020](http://misailo.web.engr.illinois.edu/courses/526-sp20/)
 
 6. University of Cambridge
 
