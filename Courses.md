@@ -14,9 +14,9 @@
 
     [CIS341: Compilers](https://www.cis.upenn.edu/~cis341/current/)
 
-3. IRCE University
+3. RICE University
 
-    [COMP 412: Compiler Construction for Undergraduates](https://www.clear.rice.edu/comp412/) --Keith Cooper, Michael Burke
+    COMP 412: Compiler Construction for Undergraduates --Keith Cooper, Michael Burke
 
     [COMP 512: Advanced Compiler Construction](https://www.clear.rice.edu/comp512/) --Keith D. Cooper
 
