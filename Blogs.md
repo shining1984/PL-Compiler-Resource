@@ -55,6 +55,7 @@
 ## Program Analysis
 
 1. [Program Analysis Resources](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
+2. [Static Program Analysis Book](https://spa-book.pblo.gq/)
 
 ## Programming Languages
 
