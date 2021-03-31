@@ -62,6 +62,8 @@
 
 2. [*Static Program Analysis*](https://cs.au.dk/~amoeller/spa/) --[Anders Møller](https://cs.au.dk/~amoeller/), Michael I. Schwartzbach
 
+3. [静态程序分析入门教程](https://github.com/RangerNJU/Static-Program-Analysis-Book)
+
 ## Virtual Machine && Runtime
 
 1. [*Virtual Machines: Versatile Platforms for Systems and Processes*](https://www.amazon.com/dp/1558609105) --Jim Smith, Ravi Nair

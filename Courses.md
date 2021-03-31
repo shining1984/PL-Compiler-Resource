@@ -119,7 +119,11 @@
 
 5. Carnegie Mellon University:  [17-355/17-665/17-819 Program Analysis](http://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/)
 
-6. Peking University:  [Software Analysis](https://xiongyingfei.github.io/SA/2019/main.htm) --Yingfei Xiong(熊英飞)
+6. Peking University:
+
+  [Software Analysis 2019](https://xiongyingfei.github.io/SA/2019/main.htm)  --Yingfei Xiong(熊英飞)
+
+  [Software Analysis 2020(video)](https://liveclass.org.cn/cloudCourse/#/courseDetail/8mI06L2eRqk8GcsW)   --Yingfei Xiong(熊英飞)
 
 7. Nanjing University
 
