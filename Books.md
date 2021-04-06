@@ -126,6 +126,8 @@
 11. [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs)
 
     [相关资源](https://github.com/DeathKing/Learning-SICP)
+    
+12. [*practical foundations for programming languages*](https://www.cs.cmu.edu/~rwh/pfpl/) -- Robert Harper
 
 ## Others
 
