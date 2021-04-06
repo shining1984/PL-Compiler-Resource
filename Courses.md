@@ -199,7 +199,7 @@
 
     [CS61a: Structure and Interpretation of Computer Programs](https://cs.nju.edu.cn/xyfeng/teaching/SICP/) -- Xinyu Feng(冯新宇)
 
-    [CS242: Foundations os Programming Languages](https://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html) -- Xinyu Feng(冯新宇)
+    [CS242: Foundations of Programming Languages](https://cs.nju.edu.cn/xyfeng/teaching/FOPL/lectureNotes/index.html) -- Xinyu Feng(冯新宇)
 
 9. [OPLSS — Oregon Programming Language Summer Schoo](https://www.cs.uoregon.edu/research/summerschool/summer20/)
 
