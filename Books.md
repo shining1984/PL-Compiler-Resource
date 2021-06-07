@@ -56,6 +56,10 @@
 
 3. [*LLVM Cookbook*](https://www.amazon.com/dp/178528598X/) --Mayur Pandey, Suyog Sarda
 
+4. [*LLVM Techniques, Tips, and Best Practices -- Clang and Middle-End Libraries*](https://www.amazon.com/-/zh/dp/1838824952/)  --Min-Yih Hsu
+
+5. [*Learn LLVM 12*](https://www.amazon.com/-/zh/dp/1839213507/)  --Kai Nacke
+
 ## Program Analysis
 
 1. [*Lecture Notes on Static Analysis*](https://lara.epfl.ch/w/_media/sav08:schwartzbach.pdf) --Michael I. Schwartzbach
