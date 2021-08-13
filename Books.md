@@ -56,6 +56,8 @@
 
 3. [*LLVM Cookbook*](https://www.amazon.com/dp/178528598X/) --Mayur Pandey, Suyog Sarda
 
+   [中文版：《LLVM Cookbook》](https://book.douban.com/subject/26820613/)
+
 4. [*LLVM Techniques, Tips, and Best Practices -- Clang and Middle-End Libraries*](https://www.amazon.com/-/zh/dp/1838824952/)  --Min-Yih Hsu
 
 5. [*Learn LLVM 12*](https://www.amazon.com/-/zh/dp/1839213507/)  --Kai Nacke
