@@ -42,6 +42,8 @@
 
 15. [《编译系统透视》](https://book.douban.com/subject/26762311/)
 
+16. [《自制编译器》](https://book.douban.com/subject/26806041/)  --（日）青木峰郎  --（译者）严圣逸，绝云
+
 ## Linker && Loader
 
 1. [*Assemblers And Loaders*](http://www.davidsalomon.name/assem.advertis/AssemAd.html)  --David Salomon
@@ -145,6 +147,8 @@
     [相关资源](https://github.com/DeathKing/Learning-SICP)
     
 12. [*practical foundations for programming languages*](https://www.cs.cmu.edu/~rwh/pfpl/) -- Robert Harper
+
+13. [《自制编程语言》](https://book.douban.com/subject/25735333/)  --（日）前桥和弥  --（译者）刘卓，徐谦，吴雅明
 
 ## Others
 
