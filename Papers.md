@@ -6,15 +6,31 @@
 
 2. [*Simple and Efficient Construction of Static Single Assignment Form - CC 2013*](https://compilers.cs.uni-saarland.de/papers/bbhlmz13cc.pdf)
 
-3. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)
+3. [*Survey on Instruction Selection*](https://arxiv.org/ftp/arxiv/papers/1306/1306.4898.pdf)
 
-4. [*Register allocation via coloring*](https://dl.acm.org/doi/10.5555/2245737.2245881)
+4. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
 
-5. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators)
+## Compilers -- Register Allocation
 
-6. [*Survey on Instruction Selection*](https://arxiv.org/ftp/arxiv/papers/1306/1306.4898.pdf)
+1. [*Register allocation via coloring*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.8606&rep=rep1&type=pdf) --Gregory J.Chaitin etc. 1981
 
-7. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
+2. [*Register allocation and spilling via graph coloring*](https://cs.gmu.edu/~white/CS640/p98-chaitin.pdf) -- G.J.Chaitin. 1982
+
+3. [*Improvements to graph coloring register allocation*](https://www.researchgate.net/publication/2392358_Improvements_to_Graph_Coloring_Register_Allocation) --Preston Briggs, Keith D.Cooper, Linda Torczon. 1994
+
+4. [*Iterated register coalescing*](http://www.cse.iitm.ac.in/~krishna/courses/2012/odd-cs6013/george.pdf) --Lal George, Andrew W.Appel. 1996
+
+5. [*Optimistic register coalescing*](https://ieeexplore.ieee.org/document/727246) --Jinpyo Park, Soo-Mook Moon. 1998
+
+6. [*Optimistic register coalescing*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.7615&rep=rep1&type=pdf) --Jinpyo Park, Soo-Mook Moon. 2004
+
+7. [*On the complexity of register coalescing*](https://hal-lara.archives-ouvertes.fr/hal-02102282/file/RR2006-15.pdf) --Florent Bouchez, Alain Darte, Fabrice Rastello. 2007
+
+8. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
+
+9. [*Register Allocation for Programs in SSA-Form*](https://compilers.cs.uni-saarland.de/papers/ssara.pdf)  --Sebastian Hack, Daniel Grund, and Gerhard Goos. 2006
+
+10. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
 
 ## The History of Programming Languages
 
