@@ -107,6 +107,7 @@
 6. 国防科技大学 --[Bilibili video](https://www.bilibili.com/video/av59119931) --王挺
 
 7. 北京航空航天大学 --[icourse](http://www.icourses.cn/sCourse/course_3288.html) --张莉
+
 ## Program Analysis
 
 1. Stanford University:  [CS243: Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
@@ -135,7 +136,9 @@
 
     05: [Data Flow Analysis - Foundations I](https://www.bilibili.com/video/BV1A741117it) 06: [Data Flow Analysis - Foundations II](https://www.bilibili.com/video/BV1964y1M7nL) 07: [Interprocedural Analysis](https://www.bilibili.com/video/BV1GQ4y1T7zm) 08: [Pointer Analysis](https://www.bilibili.com/video/BV1gg4y1z78p)
 
-    (该课程已经完结。该课程第8次课后，不再录制视频，课程相关PPT和信息在课程网站获取。)
+    09：[Pointer Analysis - Foundations I](https://www.bilibili.com/video/BV1NS4y1Q7UJ)  10: [Pointer Analysis - Foundations II](https://www.bilibili.com/video/BV1fb4y1i7HY)  11: [Pointer Analysis - Context Sensitivity I](https://www.bilibili.com/video/BV1wQ4y1v72e)  12: [Pointer Analysis - Context Sensitivity II](https://www.bilibili.com/video/BV1aR4y1x7Zk)
+
+    13: [Static Analysis for Security](https://www.bilibili.com/video/BV1Fq4y1B74m)  14: [Datalog-Based Program Analysis](https://www.bilibili.com/video/BV1wa411k7Uv)  15: [CFL-Reachability and IFDS](https://www.bilibili.com/video/BV1gL411j7vS)  16: [Soundness and Soundiness](https://www.bilibili.com/video/BV1d3411s7tt)
 
 8. 燧原科技
 
