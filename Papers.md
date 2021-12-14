@@ -12,25 +12,45 @@
 
 ## Compilers -- Register Allocation
 
-1. [*Register allocation via coloring*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.8606&rep=rep1&type=pdf) --Gregory J.Chaitin etc. 1981
+### Compilers -- Register Allocation -- Graph Coloring
 
-2. [*Register allocation and spilling via graph coloring*](https://cs.gmu.edu/~white/CS640/p98-chaitin.pdf) -- G.J.Chaitin. 1982
+1. [*Register Allocation via Coloring*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.8606&rep=rep1&type=pdf) --Gregory J.Chaitin etc. 1981
 
-3. [*Improvements to graph coloring register allocation*](https://www.researchgate.net/publication/2392358_Improvements_to_Graph_Coloring_Register_Allocation) --Preston Briggs, Keith D.Cooper, Linda Torczon. 1994
+2. [*Register Allocation and Spilling via Graph Coloring*](https://cs.gmu.edu/~white/CS640/p98-chaitin.pdf) -- G.J.Chaitin. 1982
 
-4. [*Iterated register coalescing*](http://www.cse.iitm.ac.in/~krishna/courses/2012/odd-cs6013/george.pdf) --Lal George, Andrew W.Appel. 1996
+   core algorithm: [*On the Geographical Problem of the Four colours*](https://www.jstor.org/stable/2369235?seq=1#metadata_info_tab_contents)  --A. B. Kempe. 1879
 
-5. [*Optimistic register coalescing*](https://ieeexplore.ieee.org/document/727246) --Jinpyo Park, Soo-Mook Moon. 1998
+3. [*Improvements to Graph Coloring Register Allocation*](https://www.researchgate.net/publication/2392358_Improvements_to_Graph_Coloring_Register_Allocation) --Preston Briggs, Keith D.Cooper, Linda Torczon. 1994
 
-6. [*Optimistic register coalescing*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.7615&rep=rep1&type=pdf) --Jinpyo Park, Soo-Mook Moon. 2004
+4. [*Iterated Register Coalescing*](http://www.cse.iitm.ac.in/~krishna/courses/2012/odd-cs6013/george.pdf) --Lal George, Andrew W.Appel. 1996
 
-7. [*On the complexity of register coalescing*](https://hal-lara.archives-ouvertes.fr/hal-02102282/file/RR2006-15.pdf) --Florent Bouchez, Alain Darte, Fabrice Rastello. 2007
+5. [*Optimistic Register Coalescing*](https://ieeexplore.ieee.org/document/727246) --Jinpyo Park, Soo-Mook Moon. 1998
 
-8. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
+6. [*Optimistic Register Coalescing*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.7615&rep=rep1&type=pdf) --Jinpyo Park, Soo-Mook Moon. 2004
 
-9. [*Register Allocation for Programs in SSA-Form*](https://compilers.cs.uni-saarland.de/papers/ssara.pdf)  --Sebastian Hack, Daniel Grund, and Gerhard Goos. 2006
+7. [*On the Complexity of Register Coalescing*](https://hal-lara.archives-ouvertes.fr/hal-02102282/file/RR2006-15.pdf) --Florent Bouchez, Alain Darte, Fabrice Rastello. 2007
 
-10. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
+### Compilers -- Register Allocation -- Linear Scan
+
+1. [*Linear Scan Register Allocation*](http://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf) --MASSIMILIANO POLETTO, VIVEK SARKAR. 1999
+
+   related: [*Algorithms for Minimum Coloring, Maximum Clique, Minimum Covering by Cliques, and Maximum Independent Set of a Chordal Graph*]() --Fanica Gavril. 1972
+
+2. [*Quality and Speed in Linear-scan Register Allocation*](https://dash.harvard.edu/bitstream/handle/1/34325454/tr-21-97.pdf;jsessionid=4FF577927DA65DE17A72800864F6F27C?sequence=1)  --Omri Traub, Glenn Holloway, Michael D. Smith. 1998
+
+3. [*Linear Scan Register Allocation in the Context of SSA Form and Register Constraints*](https://link.springer.com/content/pdf/10.1007%2F3-540-45937-5_17.pdf)  --Hanspeter Mossenbock, Michael Pfeiffer. 2002
+
+4. [*Optimized Interval Splitting in a Linear Scan Register Allocator*](https://www.usenix.org/legacy/events/vee05/full_papers/p132-wimmer.pdf)  --Christian Wimmer, Hanspeter Mossenbock. 2005
+
+5. [*Extended Linear Scan: an Alternate Foundation for Global Register Allocation*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.4590&rep=rep1&type=pdf) --Vivek Sarkar, Rajkishore Barik. 2007
+
+### Compilers -- Register Allocation -- Others
+
+1. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
+
+2. [*Register Allocation for Programs in SSA-Form*](https://compilers.cs.uni-saarland.de/papers/ssara.pdf)  --Sebastian Hack, Daniel Grund, and Gerhard Goos. 2006
+
+3. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
 
 ## The History of Programming Languages
 
