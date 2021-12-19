@@ -44,6 +44,8 @@
 
 16. [《自制编译器》](https://book.douban.com/subject/26806041/)  --（日）青木峰郎  --（译者）严圣逸，绝云
 
+17. [*Crafting Interpreters*](https://craftinginterpreters.com/) --Robert Nystrom
+
 ## Linker && Loader
 
 1. [*Assemblers And Loaders*](http://www.davidsalomon.name/assem.advertis/AssemAd.html)  --David Salomon
