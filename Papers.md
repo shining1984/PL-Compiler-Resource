@@ -103,3 +103,5 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 20. [*Verilog HDL and its ancestors and descendants*](https://dl.acm.org/doi/pdf/10.1145/3386337) --Peter Flake, Phil Moorby, Steve Golson, Arturo Salz, Simon Davidmann
 
 Notes: 2-20为HOPL IV: History of Programming Languages会议文章，官方网址(https://hopl4.sigplan.org/).
+
+21. [*Thriving in a Crowded and Changing World C++ 2006–2020*](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf) --BJARNE STROUSTRUP
