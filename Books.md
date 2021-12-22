@@ -70,6 +70,8 @@
 
 5. [*Learn LLVM 12*](https://www.amazon.com/-/zh/dp/1839213507/)  --Kai Nacke
 
+   [中文版（非官方）](https://github.com/xiaoweiChen/Learn-LLVM-12) --Chen Xiaowei
+
 ## Program Analysis
 
 1. [*Lecture Notes on Static Analysis*](https://lara.epfl.ch/w/_media/sav08:schwartzbach.pdf) --Michael I. Schwartzbach
