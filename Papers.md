@@ -54,6 +54,8 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 
 3. [*Register Allocation for Programs in SSA-Form*](https://compilers.cs.uni-saarland.de/papers/ssara.pdf)  --Sebastian Hack, Daniel Grund, and Gerhard Goos. 2006
 
+4. [*Linear Scan Register Allocation on SSA Form*](http://www.christianwimmer.at/Publications/Wimmer10a/Wimmer10a.pdf)  --Christian Wimmer, Michael Franz. 2010
+
 ### Compilers -- Register Allocation -- Others
 
 1. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
