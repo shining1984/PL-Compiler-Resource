@@ -72,6 +72,10 @@ This is a simplified Dalvik virtual machine implementation written from scratch 
 
 A shabby implementation of Java virtual machine in C.
 
+5. [Doop](http://doop.program-analysis.org/)
+
+Doop is a framework for pointer, or points-to, analysis of Java programs. Doop implements a range of algorithms, including context insensitive, call-site sensitive, and object-sensitive analyses, all specified modularly as variations on a common code base.
+
 ## Tools-RISC-V
 
 1. [Ripes](https://github.com/mortbopet/Ripes)
