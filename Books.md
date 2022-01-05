@@ -70,7 +70,9 @@
 
 2. [*Linkers & Loaders*](https://www.amazon.com/dp/1558604960/) --John R. Levine
 
-3. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
+3. [*The GNU Linker(V2.37)*](https://sourceware.org/binutils/docs/ld.pdf)
+
+4. [《程序员的自我修养：链接、装载与库》](https://book.douban.com/subject/3652388/)  --俞甲子，石凡，潘爱民
 
 ## Program Analysis
 
