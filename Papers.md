@@ -10,6 +10,12 @@
 
 ### Compilers -- Optimization
 
+1. [Lazy code motion](https://dl.acm.org/doi/10.1145/143095.143136) --Jens Knoop, Oliver Rüthing, Bernhard Steffen. 1992
+
+2. [*A New Algorithm for Partial Redundancy Elimination based on SSA Form*](https://www.researchgate.net/publication/2460226) --Fred Chow, Sun Chan, Robert Kennedy, Shin-Ming Liu, Raymond Lo, Peng Tu. 1997
+
+3. [Lazy code motion](https://dl.acm.org/doi/10.1145/989393.989439) --Jens Knoop, Oliver Rüthing, Bernhard Steffen. 2004
+
 #### Compilers -- Optimization -- Peephole Optimization
 
 1. [*Peephole optimization*](https://dl.acm.org/doi/10.1145/364995.365000) --W. M. McKeeman. 1965
