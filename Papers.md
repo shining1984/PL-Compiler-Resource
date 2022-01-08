@@ -6,13 +6,33 @@
 
 2. [*Simple and Efficient Construction of Static Single Assignment Form - CC 2013*](https://compilers.cs.uni-saarland.de/papers/bbhlmz13cc.pdf)
 
-3. [*Survey on Instruction Selection*](https://arxiv.org/ftp/arxiv/papers/1306/1306.4898.pdf)
+3. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
 
-4. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
+### Compilers -- Optimization
 
-## Compilers -- Register Allocation
+#### Compilers -- Optimization -- Peephole Optimization
 
-### Compilers -- Register Allocation -- Graph Coloring
+1. [*Peephole optimization*](https://dl.acm.org/doi/10.1145/364995.365000) --W. M. McKeeman. 1965
+
+2. [*Object Code Optimization*](https://dl.acm.org/doi/10.1145/362835.362838) --Edward S. Lowry, C. W. Medlock. 1969
+
+3. [*A Compact, Machine-Independent Peephole Optimizer*](https://dl.acm.org/doi/10.1145/567752.567753) --Christopher W. Fraser. 1979
+
+4. [*The Design and Application of a Retargetable Peephole Optimizer*](https://dl.acm.org/doi/10.1145/357094.357098) --Davidson J. W, Fraser C. W. 1980
+
+5. [*Code Selection Through Object Code Optimization*](https://dl.acm.org/doi/10.1145/1780.1783) --Davidson J. W, Fraser C. W. 1984
+
+6. [*Fifty years of peephole optimization*](https://www.currentscience.ac.in/Volumes/108/12/2186.pdf) --Pinaki Chakraborty. 2015
+
+### Compilers -- Instruction Selection
+
+1. [*Code Selection Through Object Code Optimization*](https://dl.acm.org/doi/10.1145/1780.1783) --Davidson J. W, Fraser C. W. 1984
+
+2. [*Survey on Instruction Selection*](https://arxiv.org/ftp/arxiv/papers/1306/1306.4898.pdf) --gabriel s. hjort blindell. 2013.
+
+### Compilers -- Register Allocation
+
+#### Compilers -- Register Allocation -- Graph Coloring
 
 1. [*Register Allocation via Coloring*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.8606&rep=rep1&type=pdf) --Gregory J.Chaitin etc. 1981
 
@@ -30,7 +50,7 @@
 
 7. [*On the Complexity of Register Coalescing*](https://hal-lara.archives-ouvertes.fr/hal-02102282/file/RR2006-15.pdf) --Florent Bouchez, Alain Darte, Fabrice Rastello. 2007
 
-### Compilers -- Register Allocation -- Linear Scan
+#### Compilers -- Register Allocation -- Linear Scan
 
 1. [*Linear Scan Register Allocation*](http://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf) --MASSIMILIANO POLETTO, VIVEK SARKAR. 1999
 
@@ -44,7 +64,7 @@
 
 5. [*Extended Linear Scan: an Alternate Foundation for Global Register Allocation*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.4590&rep=rep1&type=pdf) --Vivek Sarkar, Rajkishore Barik. 2007
 
-### Compilers -- Register Allocation -- SSA Based Register Allocation
+#### Compilers -- Register Allocation -- SSA Based Register Allocation
 
 Note: Any of the register allocation approaches can be adapted to run on SSA-form programs.
 
@@ -56,7 +76,7 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 
 4. [*Linear Scan Register Allocation on SSA Form*](http://www.christianwimmer.at/Publications/Wimmer10a/Wimmer10a.pdf)  --Christian Wimmer, Michael Franz. 2010
 
-### Compilers -- Register Allocation -- Others
+#### Compilers -- Register Allocation -- Others
 
 1. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
 
