@@ -86,7 +86,9 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 
 1. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
 
-2. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
+2. [*A SURVEY OF REGISTER ALLOCATION TECHNIQUES*](https://jonathan.protzenko.fr/papers/register09.pdf)  -- Jonathan Protzenko. 2009
+
+3. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
 
 ## The History of Programming Languages
 
