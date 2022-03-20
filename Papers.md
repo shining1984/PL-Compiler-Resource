@@ -90,6 +90,10 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 
 3. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
 
+## Virtual Machine
+
+1.[*A Unified Theory of Garbage Collection*](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.6619&rep=rep1&type=pdf)  --David F.Bacon, Perry Cheng, V.T.Rajan. 2004
+
 ## The History of Programming Languages
 
 1. [*The Development of the C Language*](https://www.bell-labs.com/usr/dmr/www/chist.html) --Dennis M. Ritchie
