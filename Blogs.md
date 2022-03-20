@@ -56,7 +56,9 @@
 
 1. [Program Analysis Resources](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
 
-2. [Yannis Smaragdakis](http://yanniss.github.io/)
+2. Yannis Smaragdakis
+
+[yanniss.github.io](http://yanniss.github.io/)   [dblp](https://dblp.org/pid/s/YSmaragdakis.html)
 
 ## Programming Languages
 

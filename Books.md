@@ -80,9 +80,11 @@
 
 3. [*Program Analysis*](https://arxiv.org/ftp/arxiv/papers/2012/2012.10086.pdf) --Flemming Nielson, Hanne Riis Nielson. 2020
 
-4. [*Pointer Analysis*](https://yanniss.github.io/points-to-tutorial15.pdf) --Yannis Smaragdakis, George Balatsouras。 2015
+4. [*Pointer Analysis*](https://yanniss.github.io/points-to-tutorial15.pdf) --Yannis Smaragdakis, George Balatsouras. 2015
 
 5. [静态程序分析入门教程](https://github.com/RangerNJU/Static-Program-Analysis-Book)
+
+6. [Principles of Program Analysis](https://link.springer.com/book/10.1007/978-3-662-03811-6) --Flemming Nielson, Hanne Riis Nielson, Chris Hankin. 1999
 
 ## Virtual Machine && Runtime
 
@@ -110,7 +112,7 @@
 
 10. [《深入剖析Java虚拟机——源码剖析与实例详解（基础卷）》](https://book.douban.com/subject/35571969/)  --马智
 
-## Garbage Collection
+### Garbage Collection
 
 1. [*Garbage Collection:  Algorithms for Automatic Dynamic Memory Management*](https://book.douban.com/subject/2135376/) -- Richard Jones, Rafael D Lins
 
