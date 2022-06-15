@@ -66,6 +66,8 @@
 
 7. [*Tutorial: Creating an LLVM Toolchain for the Cpu0 Architecture*](http://jonathan2251.github.io/lbt/index.html) --Chen Chung-Shu
 
+8. [*Learn LLVM Core Libraries, 2nd Edition*](https://book.douban.com/subject/34782160/)  --Dmitrii Borisenkov / Bruno Lopes / Rafael Auler
+
 ## Linker && Loader
 
 1. [*Assemblers And Loaders*](http://www.davidsalomon.name/assem.advertis/AssemAd.html)  --David Salomon
