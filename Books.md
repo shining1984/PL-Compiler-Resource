@@ -62,6 +62,10 @@
 
    [中文版（非官方）](https://github.com/xiaoweiChen/Learn-LLVM-12) --Chen Xiaowei
 
+6. [*Tutorial: Creating an LLVM Backend for the Cpu0 Architecture*](http://jonathan2251.github.io/lbd/index.html) --Chen Chung-Shu
+
+7. [*Tutorial: Creating an LLVM Toolchain for the Cpu0 Architecture*](http://jonathan2251.github.io/lbt/index.html) --Chen Chung-Shu
+
 ## Linker && Loader
 
 1. [*Assemblers And Loaders*](http://www.davidsalomon.name/assem.advertis/AssemAd.html)  --David Salomon
