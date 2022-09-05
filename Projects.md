@@ -76,6 +76,10 @@ A shabby implementation of Java virtual machine in C.
 
 Doop is a framework for pointer, or points-to, analysis of Java programs. Doop implements a range of algorithms, including context insensitive, call-site sensitive, and object-sensitive analyses, all specified modularly as variations on a common code base.
 
+6. [AppShark](https://github.com/bytedance/appshark)
+
+Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
+
 ## Tools-RISC-V
 
 1. [Ripes](https://github.com/mortbopet/Ripes)
