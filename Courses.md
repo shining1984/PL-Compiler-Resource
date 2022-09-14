@@ -252,3 +252,7 @@
     [2003:Foundations of Security](https://www.cs.uoregon.edu/research/summerschool/summer03/)
 
     [2002:Proofs as Programs](https://www.cs.uoregon.edu/research/summerschool/summer02/)
+
+10. Stanford University
+
+    [CS242: Programming Languages](https://web.stanford.edu/class/cs242/)
