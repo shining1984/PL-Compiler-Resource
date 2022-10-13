@@ -94,6 +94,10 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 
 1.[*A Unified Theory of Garbage Collection*](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.6619&rep=rep1&type=pdf)  --David F.Bacon, Perry Cheng, V.T.Rajan. 2004
 
+2.[*The Java HotSpot™ Server Compiler*](https://www.usenix.org/legacy/events/jvm01/full_papers/paleczny/paleczny.pdf)  --Michael Paleczny, Christopher Vick, Cliff Click. JVM'01,2001
+
+3.[*Visualization of Program Dependence Graphs*](http://ssw.jku.at/Research/Papers/Wuerthinger07Master/Wuerthinger07Master.pdf)  --Thomas Würthinger. 2007
+
 ## The History of Programming Languages
 
 1. [*The Development of the C Language*](https://www.bell-labs.com/usr/dmr/www/chist.html) --Dennis M. Ritchie
