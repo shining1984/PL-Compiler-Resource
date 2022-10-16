@@ -6,7 +6,12 @@
 
 2. [*Simple and Efficient Construction of Static Single Assignment Form - CC 2013*](https://compilers.cs.uni-saarland.de/papers/bbhlmz13cc.pdf)
 
-3. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) -John Aycock
+3. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) --John Aycock
+
+### Compilers -- IR
+
+1. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny
+   It is the IR of HotSport Server Compiler.
 
 ### Compilers -- Optimization
 
