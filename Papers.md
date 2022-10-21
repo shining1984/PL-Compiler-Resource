@@ -11,7 +11,7 @@
 ### Compilers -- IR
 
 1. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny
-   It is the IR of HotSport Server Compiler.
+   It is the paper of Java HotSport Server Compiler IR.
 
 ### Compilers -- Optimization
 
@@ -39,7 +39,10 @@
 
 1. [*Code Selection Through Object Code Optimization*](https://dl.acm.org/doi/10.1145/1780.1783) --Davidson J. W, Fraser C. W. 1984
 
-2. [*Survey on Instruction Selection*](https://arxiv.org/ftp/arxiv/papers/1306/1306.4898.pdf) --gabriel s. hjort blindell. 2013.
+2. [*Optimal Code Generation for Expression Trees: An Application of BURS Theory*](https://dl.acm.org/doi/pdf/10.1145/73560.73586) --Eduardo Pelegri-Llopart, Susan L. Graham. 1988
+   It is the paper of Java HotSport Server Compiler instruction selection .
+
+3. [*Survey on Instruction Selection*](https://arxiv.org/ftp/arxiv/papers/1306/1306.4898.pdf) --gabriel s. hjort blindell. 2013.
 
 ### Compilers -- Register Allocation
 
