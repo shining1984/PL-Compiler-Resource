@@ -10,7 +10,10 @@
 
 ### Compilers -- IR
 
-1. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny
+1. [*From Quads to Graphs: An Intermediate Prepresention's Journey*](http://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR93366-S.pdf)  --Cliff Click. 1993
+  It is the paper about Java HotSport Server Compiler IR.
+
+2. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny. 1995
    It is the paper of Java HotSport Server Compiler IR.
 
 ### Compilers -- Optimization
