@@ -171,6 +171,9 @@
 14. [The Design and Evolution of C++](https://book.douban.com/subject/1124745/) --Bjarne Stroustrup
 
   [中文版：《C++语言的设计与演化》](https://book.douban.com/subject/35198313/)
+  
+15. [*A Tour of C++*](https://stroustrup.com/tour3.html) --Bjarne Stroustrup
+
 
 ## Others
 
