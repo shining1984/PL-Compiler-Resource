@@ -16,6 +16,8 @@
 2. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny. 1995
    It is the paper of Java HotSport Server Compiler IR.
 
+3. [*Thinking About Intermediate Representations*](http://cr.openjdk.java.net/~jrose/draft/code-media.html)  --John Rose. September 2014
+
 ### Compilers -- Optimization
 
 1. [Lazy code motion](https://dl.acm.org/doi/10.1145/143095.143136) --Jens Knoop, Oliver Rüthing, Bernhard Steffen. 1992
