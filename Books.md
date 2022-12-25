@@ -44,6 +44,8 @@
 
 16. [《自制编译器》](https://book.douban.com/subject/26806041/)  --（日）青木峰郎  --（译者）严圣逸，绝云
 
+17. [*Writing a C Compiler: Build a Real Programming Language from Scratch*](https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424) --Nora Sandler
+
 ### Compilers-LLVM
 
 1. [*Getting Started with LLVM Core Libraries*](https://www.amazon.com/dp/1782166920/) --Bruno Cardoso Lopes, Rafael Auler

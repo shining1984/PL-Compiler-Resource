@@ -8,6 +8,8 @@
 
 3. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) --John Aycock
 
+4. [*An Incremental Approach to Compiler Construction*](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) -- Abdulaziz Ghuloum. 2006
+
 ### Compilers -- IR
 
 1. [*From Quads to Graphs: An Intermediate Prepresention's Journey*](http://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR93366-S.pdf)  --Cliff Click. 1993
