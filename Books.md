@@ -14,39 +14,39 @@
 
 6. [*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
 
-7. [*Optimizing Compilers for Modern Architectures*](https://www.amazon.com/dp/8181473663/) -- Allen
+7. [*SSA-based Compiler Design*](https://link.springer.com/book/10.1007/978-3-030-80515-9) --Fabrice Rastello, Florent Bouchez Tichadou. 2022
+
+8. [*Optimizing Compilers for Modern Architectures*](https://www.amazon.com/dp/8181473663/) -- Allen
 
     [中文版：《现代体系结构的优化编译器》](https://book.douban.com/subject/1171448/)
 
-8. [*flex & bison: Text Processing Tools*](https://www.amazon.com/dp/0596155972/) --John Levine
+9. [*flex & bison: Text Processing Tools*](https://www.amazon.com/dp/0596155972/) --John Levine
 
     [中文版：flex与bison](https://book.douban.com/subject/6109479/)
 
-9. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
+10. [*Parsing Techniques: A Practical Guide*](https://www.amazon.com/dp/B01B996XWO/) --Dick Grune
 
     [中文版：《解析技术》(翻译中)](https://github.com/duguying/parsing-techniques)
 
-10. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
+11. [*The Compiler Design Handbook: Optimizations and Machine Code Generation*](https://www.amazon.com/dp/B00A8SLYK4/) -- Y.N. Srikant,Priti Shankar
 
-11. [*Advanced C and C++ Compiling*](https://www.amazon.com/dp/B01HXFLQH0/) --Milan Stevanovic
+12. [*Advanced C and C++ Compiling*](https://www.amazon.com/dp/B01HXFLQH0/) --Milan Stevanovic
 
     [中文版：《高级C/C++编译技术》](https://book.douban.com/subject/26414485/)
 
-12. [*A Retargetable C Compiler: Design and Implementation*](https://www.amazon.com/dp/0805316701/) --David R. Hanson,Christopher W. Fraser
+13. [*A Retargetable C Compiler: Design and Implementation*](https://www.amazon.com/dp/0805316701/) --David R. Hanson,Christopher W. Fraser
 
     [中文版：《可变目标C编译器》](https://book.douban.com/subject/26915591/)
 
-13. [*High-Performance Compilers for Parallel Computing*](https://www.amazon.com/dp/0805327304) --Michael Wolfe
+14. [*High-Performance Compilers for Parallel Computing*](https://www.amazon.com/dp/0805327304) --Michael Wolfe
 
-14. [*Writing Compilers and Interpreters: A Software Engineering Approach (3rd Edition)*](https://www.amazon.com/dp/0470177071/) --Ronald Mak
+15. [*Writing Compilers and Interpreters: A Software Engineering Approach (3rd Edition)*](https://www.amazon.com/dp/0470177071/) --Ronald Mak
 
-15. [《编译系统透视》](https://book.douban.com/subject/26762311/)
+16. [《编译系统透视》](https://book.douban.com/subject/26762311/)
 
-16. [《自制编译器》](https://book.douban.com/subject/26806041/)  --（日）青木峰郎  --（译者）严圣逸，绝云
+17. [《自制编译器》](https://book.douban.com/subject/26806041/)  --（日）青木峰郎  --（译者）严圣逸，绝云
 
-17. [*Writing a C Compiler: Build a Real Programming Language from Scratch*](https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424) --Nora Sandler
-
-18. [*SSA-based Compiler Design*](https://link.springer.com/book/10.1007/978-3-030-80515-9) --Fabrice Rastello, Florent Bouchez Tichadou. 2022
+18. [*Writing a C Compiler: Build a Real Programming Language from Scratch*](https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424) --Nora Sandler
 
 ### Compilers-LLVM
 
