@@ -46,6 +46,8 @@
 
 17. [*Writing a C Compiler: Build a Real Programming Language from Scratch*](https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424) --Nora Sandler
 
+18. [*SSA-based Compiler Design*](https://link.springer.com/book/10.1007/978-3-030-80515-9) --Fabrice Rastello, Florent Bouchez Tichadou. 2022
+
 ### Compilers-LLVM
 
 1. [*Getting Started with LLVM Core Libraries*](https://www.amazon.com/dp/1782166920/) --Bruno Cardoso Lopes, Rafael Auler

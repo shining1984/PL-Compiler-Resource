@@ -99,11 +99,15 @@ Note: Any of the register allocation approaches can be adapted to run on SSA-for
 
 #### Compilers -- Register Allocation -- Others
 
-1. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
+1. [*The FORTRAN automatic coding system*](https://archive.computerhistory.org/resources/text/Fortran/102663113.05.01.acc.pdf) -- J. W. Backus, R. J. Beeber, S. Best, R. Goldberg, L. M. Haibt, H. L. Herrick, R. A. Nelson, D. Sayre, P. B. Sheridan, H. Stern, I. Ziller, R. A. Hughes, R. Nutt. 1957
 
-2. [*A SURVEY OF REGISTER ALLOCATION TECHNIQUES*](https://jonathan.protzenko.fr/papers/register09.pdf)  -- Jonathan Protzenko. 2009
+  The first register allocation of compiler.
 
-3. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
+2. [*A Survey on Register Allocation*](http://compilers.cs.ucla.edu/fernando/publications/drafts/survey.pdf)  -- Fernando Magno Quint˜ao Pereira. 2008
+
+3. [*A SURVEY OF REGISTER ALLOCATION TECHNIQUES*](https://jonathan.protzenko.fr/papers/register09.pdf)  -- Jonathan Protzenko. 2009
+
+4. [*A Detailed Analysis of the LLVM’s Register Allocators*](https://www.researchgate.net/publication/261461454_A_Detailed_Analysis_of_the_LLVM's_Register_Allocators) --Tiago Cariolano de Souza Xavier, George Souza Oliveira, Ewerton Daniel de Lima and Anderson Faustino da Silva. 2012
 
 ## Virtual Machine
 
