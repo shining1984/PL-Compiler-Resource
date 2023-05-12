@@ -256,3 +256,7 @@
 10. Stanford University
 
     [CS242: Programming Languages](https://web.stanford.edu/class/cs242/)
+
+11. The University of Utah
+
+    [CS 3520/6520: Programming Languages](https://my.eng.utah.edu/~cs3520/f20/index.html) [YOUTUBE video](https://my.eng.utah.edu/~cs3520/f20/schedule.html) --[Matthew Flatt](https://users.cs.utah.edu/~mflatt/)
