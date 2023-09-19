@@ -85,6 +85,10 @@
 
 5. [*Extended Linear Scan: an Alternate Foundation for Global Register Allocation*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.4590&rep=rep1&type=pdf) --Vivek Sarkar, Rajkishore Barik. 2007
 
+#### Compilers -- Register Allocation -- PBQP
+
+1. [*Nearly Optimal Register Allocation with PBQP*](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.4551&rep=rep1&type=pdf) --Lang Hames, Bernhard Scholz. 2006
+
 #### Compilers -- Register Allocation -- SSA Based Register Allocation
 
 Note: Any of the register allocation approaches can be adapted to run on SSA-form programs.
