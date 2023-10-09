@@ -259,4 +259,4 @@
 
 11. The University of Utah
 
-    [CS 3520/6520: Programming Languages](https://my.eng.utah.edu/~cs3520/f20/index.html) [YOUTUBE video](https://my.eng.utah.edu/~cs3520/f20/schedule.html) --[Matthew Flatt](https://users.cs.utah.edu/~mflatt/)
+    [CS 3520/6520: Programming Languages](https://my.eng.utah.edu/~cs3520/f20/index.html) [video](https://my.eng.utah.edu/~cs3520/f20/schedule.html) --[Matthew Flatt](https://users.cs.utah.edu/~mflatt/)

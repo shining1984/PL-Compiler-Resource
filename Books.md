@@ -112,6 +112,8 @@
 
 5. [*Crafting Interpreters*](https://craftinginterpreters.com/) --Robert Nystrom
 
+    [网友自译中文版](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+
 6. [《深入理解Android——Java虚拟机ART》](https://book.douban.com/subject/33390277/) --邓凡平
 
 7. [《深入解析Android虚拟机》](https://book.douban.com/subject/30160468/) --钟世礼
