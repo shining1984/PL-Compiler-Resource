@@ -80,6 +80,10 @@ Doop is a framework for pointer, or points-to, analysis of Java programs. Doop i
 
 Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
 
+7. [Tai-e](https://github.com/pascal-lab/Tai-e)
+
+Tai-e is a static analysis framework for Java. It provides program representation, including IR, class hierarchy, etc., to represent all Java program elements that are ready for static analyses to acquire, and supports various fundamental analyses, e.g., control/data-flow analysis, pointer analysis, and call graph construction. It also implements a collection of client analyses, such as taint analysis. Tai-e is easy-to-learn, easy-to-use, efficient, and highly extensible, allowing you to easily develop new analyses on top of it.
+
 ## Tools-RISC-V
 
 1. [Ripes](https://github.com/mortbopet/Ripes)
