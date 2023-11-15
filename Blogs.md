@@ -79,3 +79,9 @@
 1. [对 Parser 的误解](http://www.yinwang.org/blog-cn/2015/09/19/parser) --王垠
 
 2. [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)
+
+3. [I do not use a debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/) --Daniel Lemire
+
+4. [Debugging hell](http://torvalds-family.blogspot.com/2008/12/debugging-hell.html) --Linus
+
+5. [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html) --Nathan
