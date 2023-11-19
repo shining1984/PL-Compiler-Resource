@@ -26,7 +26,7 @@
 
 ### PL Journal
 
-1. TOPLAS: ACM Transactions of Programming Languages and Systems](https://dl.acm.org/journal/toplas)
+1. [TOPLAS: ACM Transactions of Programming Languages and Systems](https://dl.acm.org/journal/toplas)
 
 ## Compiler
 
