@@ -115,3 +115,7 @@ PMD is a source code analyzer. It finds common programming flaws like unused var
 2. [shecc](https://github.com/jserv/shecc)
 
 shecc is built from scratch, targeted at 32-bit Arm architecture, as a self-compiling compiler for a subset of the C language.
+
+3. [chibicc: A Small C Compiler](https://github.com/rui314/chibicc)
+
+chibicc is yet another small C compiler that implements most C11 features. Even though it still probably falls into the "toy compilers" category just like other small compilers do, chibicc can compile several real-world programs, including Git, SQLite, libpng and chibicc itself, without making modifications to the compiled programs.
