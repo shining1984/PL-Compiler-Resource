@@ -8,7 +8,11 @@
 
 3. [*A Brief History of JIT Compilation*](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf) --John Aycock
 
-4. [*An Incremental Approach to Compiler Construction*](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) -- Abdulaziz Ghuloum. 2006
+4. [*An Incremental Approach to Compiler Construction*](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) --Abdulaziz Ghuloum. 2006
+
+### Compilers -- Frontend
+
+1. [*Clang matchers for verified usage of the C++ Standard Template Library*](https://ami.uni-eszterhazy.hu/uploads/papers/finalpdf/AMI_44_from99to109.pdf) --Gábor Horváth, Norbert Pataki. 2014
 
 ### Compilers -- IR
 
@@ -19,6 +23,8 @@
    It is the paper of Java HotSport Server Compiler IR.
 
 3. [*Thinking About Intermediate Representations*](http://cr.openjdk.java.net/~jrose/draft/code-media.html)  --John Rose. September 2014
+
+4. [*IRDL: An IR Definition Language for SSA Compilers*](https://dl.acm.org/doi/pdf/10.1145/3519939.3523700)  --Mathieu Fehr, Jeff Niu, River Riddle. PLDI 2022. Jnue 2022
 
 ### Compilers -- Optimization
 
