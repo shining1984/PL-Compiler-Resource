@@ -40,7 +40,7 @@
 
 17. [PLCT-Weekly](https://github.com/isrc-cas/PLCT-Weekly)
 
-    PLCT开源基础软件进展（半月刊）。
+    PLCT开源基础软件进展（月刊）。
 
 18. [arkcompiler-materials](https://github.com/isrc-cas/arkcompiler-materials)
 
@@ -48,7 +48,11 @@
 
 19. [compiler optimizations](https://compileroptimizations.com/index.html)
 
-    A collection of compiler optimizations with brief descriptions and examples of code transformations. 
+    A collection of compiler optimizations with brief descriptions and examples of code transformations.
+
+###  Compilers - lecture
+
+1. Lecture Slides for the Clang Libraries [github](https://github.com/mdadams/clang_libraries_companion) [pdf](https://www.ece.uvic.ca/~frodo/cppbook/#clang_slides)
 
 ## Virtual Machine
 
