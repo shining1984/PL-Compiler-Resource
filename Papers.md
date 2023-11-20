@@ -16,15 +16,18 @@
 
 ### Compilers -- IR
 
-1. [*From Quads to Graphs: An Intermediate Prepresention's Journey*](http://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR93366-S.pdf)  --Cliff Click. 1993
+1. [*An efficient method of computing static single assignment form*](https://dl.acm.org/doi/10.1145/75277.75280) --1989
+  SSA
+
+2. [*From Quads to Graphs: An Intermediate Prepresention's Journey*](http://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR93366-S.pdf)  --Cliff Click. 1993
   It is the paper about Java HotSport Server Compiler IR.
 
-2. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny. 1995
+3. [*A Simple Graph-Based Intermediate Representation*](https://www.oracle.com/technetwork/java/javase/tech/c2-ir95-150110.pdf)  --Cliff Click, Michael Paleczny. 1995
    It is the paper of Java HotSport Server Compiler IR.
 
-3. [*Thinking About Intermediate Representations*](http://cr.openjdk.java.net/~jrose/draft/code-media.html)  --John Rose. September 2014
+4. [*Thinking About Intermediate Representations*](http://cr.openjdk.java.net/~jrose/draft/code-media.html)  --John Rose. September 2014
 
-4. [*IRDL: An IR Definition Language for SSA Compilers*](https://dl.acm.org/doi/pdf/10.1145/3519939.3523700)  --Mathieu Fehr, Jeff Niu, River Riddle. PLDI 2022. Jnue 2022
+5. [*IRDL: An IR Definition Language for SSA Compilers*](https://dl.acm.org/doi/pdf/10.1145/3519939.3523700)  --Mathieu Fehr, Jeff Niu, River Riddle. PLDI 2022. Jnue 2022
 
 ### Compilers -- Optimization
 
