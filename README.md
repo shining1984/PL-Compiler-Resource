@@ -12,6 +12,8 @@
 
 [Blogs](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Blogs.md)
 
+[Talks](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Talks.md)
+
 [Conferences and Journals](https://github.com/shining1984/PL-Compiler-Resource/blob/master/Conferences_Journals.md)
 
 
