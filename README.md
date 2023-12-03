@@ -21,3 +21,5 @@
 
 =======
 当前已经收集课程78+，书籍81+，项目26+，博客32+，会议&杂志14+, 论文68+。后续不断更新，欢迎大家star和fork，也欢迎大家发起PR添加新的内容。
+
+[*How to Read a Paper*](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  --S. Keshav
