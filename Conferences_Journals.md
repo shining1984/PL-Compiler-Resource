@@ -24,6 +24,10 @@
 
 9. [PLMW: The Programming Languages Mentoring Workshop](https://sigplan.org/Conferences/PLMW/) (SIGPLAN Conference)
 
+10. [MPLR: Managed Programming Languages & Runtimes]()
+
+   [MPLR2023](https://2023.splashcon.org/home/mplr-2023)
+
 ### PL Journal
 
 1. [TOPLAS: ACM Transactions of Programming Languages and Systems](https://dl.acm.org/journal/toplas)
