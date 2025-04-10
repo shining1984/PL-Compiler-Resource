@@ -12,7 +12,7 @@
 
 5. [*Modern Compiler Design(Second Edition)*](https://www.amazon.com/dp/149394472X) --Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
 
-6. [*Static Single Assignment Book*](http://ssabook.gforge.inria.fr/latest/book.pdf)
+6. [*Static Single Assignment Book*](https://pfalcon.github.io/ssabook/latest/book-full.pdf)
 
 7. [*SSA-based Compiler Design*](https://link.springer.com/book/10.1007/978-3-030-80515-9) --Fabrice Rastello, Florent Bouchez Tichadou. 2022
 
