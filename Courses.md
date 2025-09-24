@@ -108,6 +108,8 @@
 
 7. 北京航空航天大学 --[icourse](http://www.icourses.cn/sCourse/course_3288.html) --张莉
 
+8. 南京大学 --[Bilibili video](https://www.bilibili.com/video/BV1sJ4m1e7bM) --魏恒峰
+
 ## Program Analysis
 
 1. Stanford University:  [CS243: Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
