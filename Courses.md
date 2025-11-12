@@ -63,20 +63,22 @@
 12. Carnegie Mellon University
 
     [CS745: Optimizing Compilers](https://www.cs.cmu.edu/~15745/) --[Todd C. Mowry](https://www.toddcmowry.org/)
+    
+    [2019 lectures](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/lectures/)
 
-13. KAIST(Korea Advanced Institute of Science and Technology)
+14. KAIST(Korea Advanced Institute of Science and Technology)
 
     [CS420: Compiler Design](https://github.com/kaist-cp/cs420) --[video](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
 
-14. Swarthmore College
+15. Swarthmore College
 
     [Principles of Compiler Design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 
-15. University of Massachusetts at Lowell
+16. University of Massachusetts at Lowell
 
     [406: Compiler Construction](http://jeapostrophe.github.io/courses/2019/spring/406/course/) --Jay McCarthy
 
-16. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
+17. 中科院软件所PLCT实验室 && HelloGCC && HelloLLVM
 
     [方舟·编译技术入门与实战](https://www.bilibili.com/video/av78503049) --吴伟
 
